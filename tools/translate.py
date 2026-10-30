@@ -25,7 +25,7 @@ OUT = ROOT / "data" / "exercises_ar.json"
 
 API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
-BATCH = 8            # عدد التمارين بكل طلب
+BATCH = 5            # عدد التمارين بكل طلب
 PAUSE = 5            # ثواني بين الطلبات (حدود الخطة المجانية)
 IMG_BASE = "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/"
 
@@ -54,20 +54,28 @@ def call_gemini(batch):
     )
     for attempt in range(5):
         try:
-            with urllib.request.urlopen(req, timeout=120) as r:
+            with urllib.request.urlopen(req, timeout=300) as r:
                 data = json.load(r)
             text = data["candidates"][0]["content"]["parts"][0]["text"]
             return {x["id"]: x for x in json.loads(text)["items"]}
         except urllib.error.HTTPError as e:
             if e.code in (400, 401, 403, 404):
-                sys.exit(f"خطأ {e.code} (المفتاح أو اسم الموديل): {e.read()[:300]!r}")
+                msg = f"خطأ {e.code} (المفتاح أو اسم الموديل): {e.read()[:500]!r}"
+                log(msg)
+                sys.exit(msg)
             wait = 30 * (attempt + 1) if e.code == 429 else 10
             print(f"  خطأ {e.code}، أنتظر {wait} ثانية...")
             time.sleep(wait)
-        except (KeyError, ValueError, urllib.error.URLError) as e:
-            print(f"  رد غير صالح ({e})، أعيد المحاولة...")
+        except Exception as e:
+            log(f"  مشكلة ({type(e).__name__}: {e})، أعيد المحاولة...")
             time.sleep(10)
     return {}
+
+
+def log(msg):
+    print(msg, flush=True)
+    with open(ROOT / "data" / "translate_log.txt", "a", encoding="utf-8") as f:
+        f.write(msg + "\n")
 
 
 def tr(d, key, val):
