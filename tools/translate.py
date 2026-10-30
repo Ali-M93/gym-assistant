@@ -59,6 +59,8 @@ def call_gemini(batch):
             text = data["candidates"][0]["content"]["parts"][0]["text"]
             return {x["id"]: x for x in json.loads(text)["items"]}
         except urllib.error.HTTPError as e:
+            if e.code in (400, 401, 403, 404):
+                sys.exit(f"خطأ {e.code} (المفتاح أو اسم الموديل): {e.read()[:300]!r}")
             wait = 30 * (attempt + 1) if e.code == 429 else 10
             print(f"  خطأ {e.code}، أنتظر {wait} ثانية...")
             time.sleep(wait)
