@@ -1807,6 +1807,187 @@
   ]
  },
  {
+  "id": "Barbell_Shrug_Behind_The_Back",
+  "name_en": "Barbell Shrug Behind The Back",
+  "name_ar": "شراج بالبار خلف الظهر (ترابيس)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الترابيس"
+  ],
+  "secondary_muscles": [
+   "الساعد",
+   "منتصف الظهر"
+  ],
+  "instructions_ar": [
+   "قف مستقيماً وافتح قدميك بعرض كتفيك، وامسك البار خلف ظهرك بكلتا يديك بحيث تكون راحة اليد متجهة للخلف وبمسافة أوسع قليلاً من عرض الكتفين. يمكنك استخدام أحزمة معصم لإحكام القبضة. هذه نقطة البداية.",
+   "ارفع كتفيك لأعلى نقطة ممكنة مع إخراج النفس (زفير)، واثبت ثانية في القمة. تجنب رفع البار بذراعيك وحافظ على استقامتهما طوال الوقت.",
+   "انزل بالبار ببطء إلى نقطة البداية مع أخذ نفس (شهيق).",
+   "كرر التمرين للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Stand up straight with your feet at shoulder width as you hold a barbell with both hands behind your back using a pronated grip (palms facing back). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for better grip. This will be your starting position.",
+   "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps. The arms should remain stretched out at all times.",
+   "Slowly return to the starting position as you breathe in.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug_Behind_The_Back/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug_Behind_The_Back/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Side_Bend",
+  "name_en": "Barbell Side Bend",
+  "name_ar": "انحناء جانبي بالبار (خواصر سايد بيند)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "قف مستقيماً واضعاً البار أعلى ظهرك (أسفل الرقبة بقليل)، واجعل المسافة بين قدميك بعرض كتفيك. هذه نقطة البداية.",
+   "حافظ على استقامة ظهرك ورفع رأسك، ثم انحنِ بجذعك جهة اليمين فقط لأقصى حد ممكن مع أخذ نفس (شهيق)، واثبت لثانية ثم ارجع لوضع البداية مع إخراج النفس (زفير). حافظ على ثبات باقي الجسم.",
+   "كرر نفس الحركة لكن بالانحناء لجهة اليسار هذه المرة، واثبت لثانية ثم ارجع لوضع البداية.",
+   "كرر الحركة للعدد المطلوب بالتناوب."
+  ],
+  "instructions_en": [
+   "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be shoulder width apart. This will be your starting position.",
+   "While keeping your back straight and your head up, bend only at the waist to the right as far as possible. Breathe in as you bend to the side. Then hold for a second and come back up to the starting position as you exhale. Tip: Keep the rest of the body stationary.",
+   "Now repeat the movement but bending to the left instead. Hold for a second and come back to the starting position.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Bend/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Bend/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Side_Split_Squat",
+  "name_en": "Barbell Side Split Squat",
+  "name_ar": "سكوات جانبي بالبار (سايد سبليت سكوات)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الفخذ الخلفي",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "قف مستقيماً واضعاً البار أعلى ظهرك (أسفل الرقبة بقليل)، وباعد بين قدميك بمسافة عريضة مع توجيه مشط القدم الأمامية للخارج بزاوية. هذه نقطة البداية.",
+   "انزل بجسمك باتجاه القدم المائلة عن طريق ثني ركبتك ووركك، مع إبقاء الرجل الأخرى ممدودة أو مثنية قليلاً. خذ نفساً (شهيق) أثناء النزول.",
+   "ادفع بركبتك ووركك لترجع إلى وضع البداية مع إخراج النفس (زفير).",
+   "بعد إكمال التكرارات المطلوبة، بدّل للرجل الأخرى وكرر نفس الخطوات."
+  ],
+  "instructions_en": [
+   "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck). Your feet should be placed wide apart with the foot of the lead leg angled out to the side. This will be your starting position.",
+   "Lower your body towards the side of your angled foot by bending the knee and hip of your lead leg and while keeping the opposite leg only slightly bent. Breathe in as you lower your body.",
+   "Return to the starting position by extending the hip and knee of the lead leg. Breathe out as you perform this movement.",
+   "After performing the recommended amount of reps, repeat the movement with the opposite leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Split_Squat/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Side_Split_Squat/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Squat",
+  "name_en": "Barbell Squat",
+  "name_ar": "سكوات بالبار (باربل سكوات)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "يفضل أداء التمرين داخل حامل السكوات (الراك) للأمان. اضبط ارتفاع البار أسفل مستوى الكتفين بقليل وضع الأوزان، ثم ادخل تحته وضعه على أعلى ظهرك (أسفل الرقبة بقليل).",
+   "امسك البار بيديك من الجانبين وارفعه عن الحامل بالدفع برجليك مع فرد ظهرك وجذعك.",
+   "تراجع خطوة للخلف وافتح قدميك بعرض كتفيك مع توجيه أصابع القدمين للخارج قليلاً، وحافظ على رفع رأسك واستقامة ظهرك. هذه نقطة البداية.",
+   "ابدأ بالنزول ببطء عن طريق ثني الركبتين والورك مع بقاء الظهر مستقيماً والصدر للأعلى، حتى تصبح زاوية الفخذ مع الساق 90 درجة أو أقل بقليل، وخذ نفساً (شهيق) أثناء النزول.",
+   "ادفع الأرض بكعب قدميك وافرد رجليك لتصعد للأعلى وترجع لنقطة البداية مع إخراج النفس (زفير).",
+   "كرر التمرين للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack to just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+   "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+   "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+   "Begin to slowly lower the bar by bending the knees and hips as you maintain a straight posture with the head up. Continue down until the angle between the upper leg and the calves becomes slightly less than 90-degrees. Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+   "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs again and go back to the starting position.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Squat/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Squat/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Squat_To_A_Bench",
+  "name_en": "Barbell Squat To A Bench",
+  "name_ar": "سكوات بالبار على بنش (بوكس سكوات)",
+  "level": "متقدم",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "يفضل أداء التمرين داخل حامل السكوات (الراك) للأمان. ضع بنشاً مستوياً أو صندوقاً خلفك مباشرة لضبط مدى النزول والرجوع بالورك للخلف.",
+   "",
+   "اضبط البار على ارتفاع مناسب لطولك، وضع الأوزان المطلوبة، ثم ادخل تحته وثبته على أعلى ظهرك (أسفل الرقبة بقليل).",
+   "امسك البار بيديك من الجانبين وارفعه عن الحامل بالدفع برجليك مع فرد جذعك واستقامة جسمك.",
+   "ارجع خطوة للخلف وافتح رجليك بعرض كتفيك مع توجيه أصابع القدم للخارج قليلاً، وارفع رأسك للأعلى وحافظ على استقامة ظهرك. هذه نقطة البداية.",
+   "انزل ببطء عن طريق ثني الركبتين وإرجاع الورك للخلف مع ظهر مستقيم، حتى تلمس البنش الذي خلفك بخفة، وخذ نفساً (شهيق) أثناء النزول.",
+   "ادفع الأرض بكعب رجليك وافرد ركبتيك ووركك لتصعد إلى وضع البداية مع إخراج النفس (زفير).",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "This exercise is best performed inside a squat rack for safety purposes. To begin, first place a flat bench or a box behind you. The flat bench is used to teach you to set your hips back and to hit depth.",
+   "",
+   "Then, set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+   "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+   "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. This will be your starting position. (Note: For the purposes of this discussion we will use the medium stance described above which targets overall development; however you can choose any of the three stances discussed in the foot stances section).",
+   "Begin to slowly lower the bar by bending the knees and sitting your hips back as you maintain a straight posture with the head up. Continue down until you slightly touch the bench behind you. Inhale as you perform this portion of the movement. Tip: If you performed the exercise correctly, the front of the knees should make an imaginary straight line with the toes that is perpendicular to the front. If your knees are past that imaginary line (if they are past your toes) then you are placing undue stress on the knee and the exercise has been performed incorrectly.",
+   "Begin to raise the bar as you exhale by pushing the floor with the heel of your foot as you straighten the legs and extend the hips to go back to the starting position.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Squat_To_A_Bench/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Squat_To_A_Bench/1.jpg"
+  ]
+ },
+ {
   "id": "Cable_Rope_Overhead_Triceps_Extension",
   "name_en": "Cable Rope Overhead Triceps Extension",
   "name_ar": "ترايسيبس بالكيبل حبل فوق الرأس",
