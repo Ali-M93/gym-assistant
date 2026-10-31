@@ -1,0 +1,2163 @@
+[
+ {
+  "id": "3_4_Sit-Up",
+  "name_en": "3/4 Sit-Up",
+  "name_ar": "تمرين المعدة 3/4 (سيت اب)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ على ظهرك وثبّت قدميك جيداً، مع ثني الركبتين.",
+   "ضع يديك خلف رأسك أو على الجانبين، وابدأ وظهرك ملامس للأرض. هذه نقطة البداية.",
+   "ارفع جذعك باتجاه ركبتيك عن طريق شد عضلات البطن وثني الحوض.",
+   "عند أعلى نقطة يكون جذعك عمودياً على الأرض، ثم انزل للأسفل لثلاثة أرباع المسافة فقط دون ملامسة الأرض بالكامل.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
+   "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
+   "Flex your hips and spine to raise your torso toward your knees.",
+   "At the top of the contraction your torso should be perpendicular to the ground. Reverse the motion, going only ¾ of the way down.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/3_4_Sit-Up/1.jpg"
+  ]
+ },
+ {
+  "id": "90_90_Hamstring",
+  "name_en": "90/90 Hamstring",
+  "name_ar": "إطالة عضلات الفخذ الخلفية 90/90 (هامسترينغ)",
+  "level": "مبتدئ",
+  "category": "إطالة",
+  "equipment": "وزن الجسم فقط",
+  "force": "دفع",
+  "mechanic": null,
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "السمانة"
+  ],
+  "instructions_ar": [
+   "استلقِ على ظهرك مع مد إحدى رجليك مستقيمة بالكامل على الأرض.",
+   "اثنِ الرجل الأخرى عند مفصل الورك والركبة بزاوية 90 درجة، ويمكنك إسناد الفخذ بيديك إذا احتجت. هذه نقطة البداية.",
+   "افرد رجلك للأعلى باتجاه السقف بشكل مستقيم واثبت لثانية، ثم أرجعها لوضع البداية.",
+   "كرر الحركة من 10 إلى 20 تكراراً، ثم بدّل للرجل الأخرى."
+  ],
+  "instructions_en": [
+   "Lie on your back, with one leg extended straight out.",
+   "With the other leg, bend the hip and knee to 90 degrees. You may brace your leg with your hands if necessary. This will be your starting position.",
+   "Extend your leg straight into the air, pausing briefly at the top. Return the leg to the starting position.",
+   "Repeat for 10-20 repetitions, and then switch to the other leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+  ]
+ },
+ {
+  "id": "Ab_Crunch_Machine",
+  "name_en": "Ab Crunch Machine",
+  "name_ar": "جهاز طحن المعدة (أب كرنش ماشين)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "جهاز",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "اختر وزناً خفيفاً واجلس على الجهاز، وضع قدميك تحت المساند وامسك المقابض العلوية مع إسناد عضلة الترايسبس على وسائد الجهاز بزاوية 90 درجة. هذه نقطة البداية.",
+   "ارفع رجليك للأعلى واضغط بجذعك العلوي للأسفل في نفس الوقت (كرنش) مع إخراج الزفير، واعتمد بالكامل على عضلات بطنك لتحريك الوزن بحركة بطيئة ومحكومة.",
+   "اثبت لثانية واحدة عند أقصى انقباض، ثم ارجع ببطء إلى وضع البداية مع أخذ شهيق.",
+   "كرر التمرين للعدد المحدد من التكرارات."
+  ],
+  "instructions_en": [
+   "Select a light resistance and sit down on the ab machine placing your feet under the pads provided and grabbing the top handles. Your arms should be bent at a 90 degree angle as you rest the triceps on the pads provided. This will be your starting position.",
+   "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
+   "After a second pause, slowly return to the starting position as you breathe in.",
+   "Repeat the movement for the prescribed amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/1.jpg"
+  ]
+ },
+ {
+  "id": "Ab_Roller",
+  "name_en": "Ab Roller",
+  "name_ar": "عجلة البطن (أب رولر)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "أخرى",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "الأكتاف"
+  ],
+  "instructions_ar": [
+   "امسك عجلة البطن بكلتا يديك واجلس على ركبتيك على الأرض.",
+   "ضع العجلة على الأرض أمامك بحيث يكون وزنك مرتكِزاً على ركبتيك ويديك. هذه نقطة البداية.",
+   "دحرج العجلة للأمام ببطء وافرد جسمك باستقامة لأقصى مسافة ممكنة دون أن يلمس جسمك الأرض، وخذ شهيقاً أثناء النزول.",
+   "اثبت لحظة في أقصى تمدد، ثم اسحب العجلة للرجوع إلى وضع البداية مع إخراج الزفير، وحافظ على شد بطنك طوال الحركة."
+  ],
+  "instructions_en": [
+   "Hold the Ab Roller with both hands and kneel on the floor.",
+   "Now place the ab roller on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
+   "Slowly roll the ab roller straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
+   "After a pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+  ]
+ },
+ {
+  "id": "Adductor",
+  "name_en": "Adductor",
+  "name_ar": "مساج الفخذ الداخلي بالفوم رولر (العضلة الضامة)",
+  "level": "متوسط",
+  "category": "إطالة",
+  "equipment": "رول فوم",
+  "force": "ثابت",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "العضلات المقرِّبة (داخل الفخذ)"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ على بطنك مع وضع إحدى رجليك فوق أسطوانة الفوم (الفوم رولر).",
+   "لف رجلك لتصبح الأسطوانة ملامسة للفخذ الداخلي، وحمّل جزءاً من وزنك عليها حسب قدرة تحملك.",
+   "أرخِ عضلات فخذك الداخلي، ودحرج الفوم رولر بين الورك والركبة مع الثبات على نقاط الألم والشد لمدة 10 إلى 30 ثانية، ثم كرر التمرين للرجل الثانية."
+  ],
+  "instructions_en": [
+   "Lie face down with one leg on a foam roll.",
+   "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
+   "While trying to relax the muscles if the inner thigh, roll over the foam between your hip and knee, holding points of tension for 10-30 seconds. Repeat with the other leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+  ]
+ },
+ {
+  "id": "Adductor_Groin",
+  "name_en": "Adductor/Groin",
+  "name_ar": "إطالة عضلات الفخذ الضامة (الأدكتر)",
+  "level": "متوسط",
+  "category": "إطالة",
+  "equipment": null,
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "العضلات المقرِّبة (داخل الفخذ)"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ على ظهرك وارفع رجليك باتجاه السقف.",
+   "خلّي زميلك يمسك قدميك أو كاحليك، وافتح رجليك لأبعد مدى تقدر عليه؛ هذه نقطة البداية.",
+   "حاول تضم رجليك للداخل لمدة 10 ثوانٍ أو أكثر، بينما زميلك يقاوم حركتك ويمنعك.",
+   "الآن، ريّح عضلات رجلك وخلي زميلك يدفع قدميك للخارج لتوسيع الإطالة لأقصى حد مريح إلك، وبلّغه أول ما تحس بالإطالة الكافية لتتجنب التمزق أو الإصابة."
+  ],
+  "instructions_en": [
+   "Lie on your back with your feet raised towards the ceiling.",
+   "Have your partner hold your feet or ankles. Abduct your legs as far as you can. This will be your starting position.",
+   "Attempt to squeeze your legs together for 10 or more seconds, while your partner prevents you from doing so.",
+   "Now, relax the muscles in your legs as your partner pushes your feet apart, stretching as far as is comfortable for you. Be sure to let your partner know when the stretch is adequate to prevent overstretching or injury."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor_Groin/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor_Groin/1.jpg"
+  ]
+ },
+ {
+  "id": "Advanced_Kettlebell_Windmill",
+  "name_en": "Advanced Kettlebell Windmill",
+  "name_ar": "طاحونة الكتل بل المتقدمة (كتل بل ويندميل)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "دفع",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "الأرداف",
+   "الفخذ الخلفي",
+   "الأكتاف"
+  ],
+  "instructions_ar": [
+   "ارفع الكتل بل فوق رأسك بيد واحدة واقفل كوعك بالكامل.",
+   "حافظ على ذراعك ممدودة للأعلى، وادفع خصرك ومؤخرتك باتجاه جهة الوزن، وخلّي إيدك الثانية وراء ظهرك مع لفّ قدميك بزاوية 45 درجة بعيداً عن اتجاه الكتل بل.",
+   "انزل بجسمك للأسفل لأبعد نقطة تقدر توصل إلها بأمان.",
+   "اثبت لثانية واحدة، وبعدها ارجع بحركة عكسية إلى وضعية البداية."
+  ],
+  "instructions_en": [
+   "Clean and press a kettlebell overhead with one arm.",
+   "Keeping the kettlebell locked out at all times, push your butt out in the direction of the locked out kettlebell. Keep the non-working arm behind your back and turn your feet out at a forty-five degree angle from the arm with the kettlebell.",
+   "Lower yourself as far as possible.",
+   "Pause for a second and reverse the motion back to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Advanced_Kettlebell_Windmill/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Advanced_Kettlebell_Windmill/1.jpg"
+  ]
+ },
+ {
+  "id": "Air_Bike",
+  "name_en": "Air Bike",
+  "name_ar": "تمرين الدراجة الهوائية للبطن (إير بايك)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "تمدد على ظهرك مع تثبيت أسفل ظهرك تماماً على الأرض، وضع يديك بجانب رأسك دون الضغط على رقبتك، ثم ارفع كتفيك قليلاً بوضعية الطحن (الكرنش).",
+   "ارفع ركبتيك بحيث تكون الفخذين عمودية على الأرض وساقيك موازية للأرض؛ هذه نقطة البداية.",
+   "بحركة بدال الدراجة وبالتزامن، مدّ رجلك اليمنى للأمام واسحب ركبتك اليسرى باتجاهك، وقرّب كوعك الأيمن من ركبتك اليسرى مع الالتفاف والزفير.",
+   "ارجع للوضعية السابقة مع أخذ نَفَس (شهيق).",
+   "كرر الالتفاف للجهة المعاكسة بتبديل حركة الأرجل، وقرّب كوعك الأيسر من ركبتك اليمنى مع الزفير.",
+   "استمر بالتبديل بين الجهتين بالتناوب حتى تكمل التكرارات المطلوبة."
+  ],
+  "instructions_en": [
+   "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
+   "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
+   "Now simultaneously, slowly go through a cycle pedal motion kicking forward with the right leg and bringing in the knee of the left leg. Bring your right elbow close to your left knee by crunching to the side, as you breathe out.",
+   "Go back to the initial position as you breathe in.",
+   "Crunch to the opposite side as you cycle your legs and bring closer your left elbow to your right knee and exhale.",
+   "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+  ]
+ },
+ {
+  "id": "All_Fours_Quad_Stretch",
+  "name_en": "All Fours Quad Stretch",
+  "name_ar": "إطالة الفخذ الأمامي بوضعية الأربع أطراف",
+  "level": "متوسط",
+  "category": "إطالة",
+  "equipment": "وزن الجسم فقط",
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "instructions_ar": [
+   "ابدأ بالنزول على ركبتيك ويديك على الأرض، ثم ارفع قدمك للأعلى وامسكها بيدك.",
+   "امسك القدم أو الكاحل واسحبها نحو مؤخرتك مع ثني الركبة بالكامل لتحس بالإطالة في الفخذ الأمامي وأعلى الحوض.",
+   "ركز على دفع الحوض باتجاه الأرض لزيادة الشد، واثبت لمدة 10-20 ثانية ثم بدّل على الرجل الثانية."
+  ],
+  "instructions_en": [
+   "Start off on your hands and knees, then lift your leg off the floor and hold the foot with your hand.",
+   "Use your hand to hold the foot or ankle, keeping the knee fully flexed, stretching the quadriceps and hip flexors.",
+   "Focus on extending your hips, thrusting them towards the floor. Hold for 10-20 seconds and then switch sides."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/All_Fours_Quad_Stretch/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/All_Fours_Quad_Stretch/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternate_Hammer_Curl",
+  "name_en": "Alternate Hammer Curl",
+  "name_ar": "تبادل هامر بالدمبلز (شاكوش)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "البايسبس"
+  ],
+  "secondary_muscles": [
+   "الساعد"
+  ],
+  "instructions_ar": [
+   "قف باستقامة مع مسك دمبل بكل يد على طول ذراعيك، وخلي كوعك قريب من جوانب جسمك.",
+   "وجّه راحتي يديك للداخل بحيث تكون مقابلة لجسمك؛ هذه نقطة البداية.",
+   "ثبّت الجزء العلوي من ذراعك وارفع الدمبل باليد اليمنى للأمام مع عصر عضلة الباي والزفير، حتى يوصل الدمبل لمستوى الكتف واثبت ثانية، وتذكّر: الساعد فقط هو اللي يتحرك.",
+   "نزّل الدمبل ببطء وتحكم إلى نقطة البداية مع أخذ شهيق.",
+   "كرر نفس الحركة باليد اليسرى؛ وهذا يحسب تكراراً واحداً كاملاً.",
+   "استمر بالتبديل بين اليدين بالتناوب حتى تكمل العدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Stand up with your torso upright and a dumbbell in each hand being held at arms length. The elbows should be close to the torso.",
+   "The palms of the hands should be facing your torso. This will be your starting position.",
+   "While holding the upper arm stationary, curl the right weight forward while contracting the biceps as you breathe out. Continue the movement until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+   "Slowly begin to bring the dumbbells back to starting position as your breathe in.",
+   "Repeat the movement with the left hand. This equals one repetition.",
+   "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Hammer_Curl/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Hammer_Curl/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternate_Heel_Touchers",
+  "name_en": "Alternate Heel Touchers",
+  "name_ar": "لمس الكعب بالتناوب (هيل تتش للبطن)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ على ظهرك مع ثني الركبتين وتثبيت القدمين على الأرض بمسافة مناسبة، وافرد ذراعيك بجانبك. هذه نقطة البداية.",
+   "ارفع جذعك للأعلى ولليمين قليلاً والمس كعبك الأيمن واثبت لثانية مع إخراج النفس (زفير).",
+   "ارجع ببطء إلى وضعية البداية مع أخذ نفس (شهيق).",
+   "ارفع جذعك للأعلى ولليسار والمس كعبك الأيسر واثبت لثانية مع الزفير، ثم ارجع لنقطة البداية مع الشهيق. لمس الجانبين يُحسب تكراراً واحداً.",
+   "استمر بالتبديل بين الجانبين حتى إكمال العدد المطلوب."
+  ],
+  "instructions_en": [
+   "Lie on the floor with the knees bent and the feet on the floor around 18-24 inches apart. Your arms should be extended by your side. This will be your starting position.",
+   "Crunch over your torso forward and up about 3-4 inches to the right side and touch your right heel as you hold the contraction for a second. Exhale while performing this movement.",
+   "Now go back slowly to the starting position as you inhale.",
+   "Now crunch over your torso forward and up around 3-4 inches to the left side and touch your left heel as you hold the contraction for a second. Exhale while performing this movement and then go back to the starting position as you inhale. Now that both heels have been touched, that is considered 1 repetition.",
+   "Continue alternating sides in this manner until all prescribed repetitions are done."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Heel_Touchers/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Heel_Touchers/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternate_Incline_Dumbbell_Curl",
+  "name_en": "Alternate Incline Dumbbell Curl",
+  "name_ar": "بايسپس دمبلز جالس بنش مائل بالتناوب (إنكلاين دمبل كيرل)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "البايسبس"
+  ],
+  "secondary_muscles": [
+   "الساعد"
+  ],
+  "instructions_ar": [
+   "اجلس على بنش مائل وأمسك دمبل بكل يد مع فرد الذراعين وإبقاء الكوعين قريبين من جسمك. هذه نقطة البداية.",
+   "ثبّت ذراعك للأعلى وارفع الدمبل الأيمن مع تدوير قبضة اليد للأعلى وعصر عضلة البايسپس مع الزفير حتى يصل لمستوى الكتف، واثبت لثانية.",
+   "أنزل الدمبل ببطء وتحكم إلى نقطة البداية مع أخذ نفس (شهيق).",
+   "كرر نفس الحركة باليد اليسرى. إكمال الذراعين يُحسب تكراراً واحداً.",
+   "استمر بالتبديل بين الذراعين حتى تكمل التكرارات المطلوبة."
+  ],
+  "instructions_en": [
+   "Sit down on an incline bench with a dumbbell in each hand being held at arms length. Tip: Keep the elbows close to the torso.This will be your starting position.",
+   "While holding the upper arm stationary, curl the right weight forward while contracting the biceps as you breathe out. As you do so, rotate the hand so that the palm is facing up. Continue the movement until your biceps is fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Tip: Only the forearms should move.",
+   "Slowly begin to bring the dumbbell back to starting position as your breathe in.",
+   "Repeat the movement with the left hand. This equals one repetition.",
+   "Continue alternating in this manner for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Incline_Dumbbell_Curl/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternate_Leg_Diagonal_Bound",
+  "name_en": "Alternate Leg Diagonal Bound",
+  "name_ar": "قفز قطري بالقدمين بالتناوب",
+  "level": "مبتدئ",
+  "category": "تمارين القفز (بلايومترك)",
+  "equipment": null,
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "العضلات المبعِّدة (جانب الورك)",
+   "العضلات المقرِّبة (داخل الفخذ)",
+   "السمانة",
+   "الأرداف",
+   "الفخذ الخلفي"
+  ],
+  "instructions_ar": [
+   "قف بوضعية مريحة مع تقديم إحدى القدمين للأمام قليلاً.",
+   "ادفع الأرض بقدمك الأمامية وارفع الركبة الأخرى للأمام وللأعلى باتجاه قطري (مائل) قبل الهبوط، وحاول قطع أكبر مسافة ممكنة لكل جانب.",
+   "يمكنك الاستعانة بخط على الأرض لتحديد مسافة القفز بين الجانبين.",
+   "كرر نفس الحركة بالقدم الأخرى بالتبادل."
+  ],
+  "instructions_en": [
+   "Assume a comfortable stance with one foot slightly in front of the other.",
+   "Begin by pushing off with the front leg, driving the opposite knee forward and as high as possible before landing. Attempt to cover as much distance to each side with each bound.",
+   "It may help to use a line on the ground to guage distance from side to side.",
+   "Repeat the sequence with the other leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Leg_Diagonal_Bound/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternate_Leg_Diagonal_Bound/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Cable_Shoulder_Press",
+  "name_en": "Alternating Cable Shoulder Press",
+  "name_ar": "شولدر بريس كيبل بالتناوب (ضغط أكتاف كيبل)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "اضبط بكرات جهاز الكيبل في الأسفل وحدد الوزن المناسب.",
+   "امسك مقابض الكيبل وارفعها لمستوى الأكتاف بحيث يكون كف يدك متجهاً للأمام. هذه نقطة البداية.",
+   "ارفع صدرك ورأسك للأعلى، ثم ادفع كيبل جانب واحد فقط لأعلى رأسك مع فرد الذراع.",
+   "اثبت في الأعلى لحظة، ثم انزل ببطء لنقطة البداية وكرر الحركة بالجانب المقابل."
+  ],
+  "instructions_en": [
+   "Move the cables to the bottom of the tower and select an appropriate weight.",
+   "Grasp the cables and hold them at shoulder height, palms facing forward. This will be your starting position.",
+   "Keeping your head and chest up, extend through the elbow to press one side directly over head.",
+   "After pausing at the top, return to the starting position and repeat on the opposite side."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Cable_Shoulder_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Cable_Shoulder_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Deltoid_Raise",
+  "name_en": "Alternating Deltoid Raise",
+  "name_ar": "رفرفة أكتاف أمامي وجانبي بالتناوب",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "دفع",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "قف باستقامة وأمسك زوج دمبلز بجانب جسمك.",
+   "مع ثني بسيط في الكوعين، ارفع الأوزان أمامك مباشرة لمستوى الكتف دون أرجحة، مع تثبيت الجسم.",
+   "أنزل الأوزان ببطء وتحكم إلى جانبيك.",
+   "في التكرار التالي، ارفع الأوزان للجانبين (رفرفة جانبي) حتى مستوى الكتف.",
+   "أنزل الأوزان لنقطة البداية، واستمر بالتبديل بين الرفرفة الأمامية والجانبية."
+  ],
+  "instructions_en": [
+   "In a standing position, hold a pair of dumbbells at your side.",
+   "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
+   "Return the weights to your side.",
+   "On the next repetition, raise the weights laterally, raising them out to your side to about shoulder height.",
+   "Return the weights to the starting position and continue alternating to the front and side."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Deltoid_Raise/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Deltoid_Raise/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Floor_Press",
+  "name_en": "Alternating Floor Press",
+  "name_ar": "فلور بريس بالتبادل بالكيتل بيل",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "عضلات البطن",
+   "الأكتاف",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "استلقِ على الأرض وضع قطعتي كيتل بيل بجانب كتفيك.",
+   "ارفع الأولى وضعها على صدرك ثم ارفع الثانية، وامسك المقابض بحيث يكون كف يدك متجهاً للأمام.",
+   "افرد ذراعيك للأعلى ليصبح الكيتل بيل فوق صدرك، ثم أنزل ذراعاً واحدة باتجاه صدرك مع تدوير المعصم قليلاً باتجاه الذراع الممدودة.",
+   "ادفع الوزن للأعلى مرة أخرى وكرر الحركة بالذراع الثانية."
+  ],
+  "instructions_en": [
+   "Lie on the floor with two kettlebells next to your shoulders.",
+   "Position one in place on your chest and then the other, gripping the kettlebells on the handle with the palms facing forward.",
+   "Extend both arms, so that the kettlebells are being held above your chest. Lower one kettlebell, bringing it to your chest and turn the wrist in the direction of the locked out kettlebell.",
+   "Raise the kettlebell and repeat on the opposite side."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Hang_Clean",
+  "name_en": "Alternating Hang Clean",
+  "name_ar": "هانغ كلين بالتبادل بالكيتل بيل",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "البايسبس",
+   "السمانة",
+   "الساعد",
+   "الأرداف",
+   "أسفل الظهر",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "ضع قطعتي كيتل بيل بين قدميك، وارجع حوضك للخلف وانظر للأمام لاتخاذ وضعية البداية.",
+   "ارفع وزناً واحداً بحركة كلين إلى كتفك بالاعتماد على قوة الساقين والحوض ولف المعصم، مع إبقاء الوزن الآخر معلقاً بالأسفل.",
+   "أنزل الكيتل بيل ليعود إلى وضعية التعليق، وقم بنفس الحركة باليد الأخرى، ثم كرر بالتبادل."
+  ],
+  "instructions_en": [
+   "Place two kettlebells between your feet. To get in the starting position, push your butt back and look straight ahead.",
+   "Clean one kettlebell to your shoulder and hold on to the other kettlebell in a hanging position. Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulders. Rotate your wrist as you do so.",
+   "Lower the cleaned kettlebell to a hanging position and clean the alternate kettlebell. Repeat."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Hang_Clean/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Hang_Clean/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Kettlebell_Press",
+  "name_en": "Alternating Kettlebell Press",
+  "name_ar": "شولدر بريس بالتبادل بالكيتل بيل",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "ارفع قطعتي الكيتل بيل إلى مستوى كتفيك بحركة كلين سريعة عبر فرد الساقين والحوض ولف المعصمين.",
+   "ادفع وزناً واحداً فوق رأسك مباشرة بفرد الكوع مع توجيه كف اليد للأمام، وحافظ على ثبات الوزن الآخر عند كتفك.",
+   "أنزل الوزن المرفوع إلى وضع البداية وادفع مباشرة باليد الأخرى."
+  ],
+  "instructions_en": [
+   "Clean two kettlebells to your shoulders. Clean the kettlebells to your shoulders by extending through the legs and hips as you pull the kettlebells towards your shoulders. Rotate your wrists as you do so.",
+   "Press one directly overhead by extending through the elbow, turning it so the palm faces forward while holding the other kettlebell stationary .",
+   "Lower the pressed kettlebell to the starting position and immediately press with your other arm."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Kettlebell_Row",
+  "name_en": "Alternating Kettlebell Row",
+  "name_ar": "تجديف (رو) بالتبادل بالكيتل بيل",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "منتصف الظهر"
+  ],
+  "secondary_muscles": [
+   "البايسبس",
+   "الظهر العريض (اللاتس)"
+  ],
+  "instructions_ar": [
+   "ضع قطعتي كيتل بيل أمام قدميك، واثنِ ركبتيك قليلاً وارجع حوضك للخلف مع إمالة ظهرك لتمسك المقبضين.",
+   "اسحب وزناً واحداً عن الأرض باتجاه أسفل بطنك أو أضلاعك بثني الكوع وضم لوح الكتف، مع إبقاء اليد الثانية ممسكة بالوزن الآخر.",
+   "أنزل الكيتل بيل للأسفل بحركة محسوبة وكرر السحب بالذراع الأخرى."
+  ],
+  "instructions_en": [
+   "Place two kettlebells in front of your feet. Bend your knees slightly and push your butt out as much as possible. As you bend over to get into the starting position grab both kettlebells by the handles.",
+   "Pull one kettlebell off of the floor while holding on to the other kettlebell. Retract the shoulder blade of the working side, as you flex the elbow, drawing the kettlebell towards your stomach or rib cage.",
+   "Lower the kettlebell in the working arm and repeat with your other arm."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Row/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Kettlebell_Row/1.jpg"
+  ]
+ },
+ {
+  "id": "Alternating_Renegade_Row",
+  "name_en": "Alternating Renegade Row",
+  "name_ar": "رينيغيد رو بالتبادل بالكيتل بيل",
+  "level": "متقدم",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "منتصف الظهر"
+  ],
+  "secondary_muscles": [
+   "عضلات البطن",
+   "البايسبس",
+   "الصدر",
+   "الظهر العريض (اللاتس)",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "ضع قطعتي الكيتل بيل على الأرض بعرض الكتفين، وخذ وضعية البوش آب مستنداً بيديك على المقابض وبجسم مستقيم، وافتح قدميك لتثبيت توازنك.",
+   "اضغط بيد واحدة على الأرض واسحب الكيتل بيل باليد الأخرى نحو جانب خصرك مع ثني الكوع وسحب لوح الكتف.",
+   "أنزل الوزن إلى الأرض وكرر السحب مباشرة باليد الثانية، واستمر بالتبادل لعدة تكرارات."
+  ],
+  "instructions_en": [
+   "Place two kettlebells on the floor about shoulder width apart. Position yourself on your toes and your hands as though you were doing a pushup, with the body straight and extended. Use the handles of the kettlebells to support your upper body. You may need to position your feet wide for support.",
+   "Push one kettlebell into the floor and row the other kettlebell, retracting the shoulder blade of the working side as you flex the elbow, pulling it to your side.",
+   "Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Renegade_Row/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Renegade_Row/1.jpg"
+  ]
+ },
+ {
+  "id": "Ankle_Circles",
+  "name_en": "Ankle Circles",
+  "name_ar": "دوران الكاحل",
+  "level": "مبتدئ",
+  "category": "إطالة",
+  "equipment": null,
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "السمانة"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استند على شيء ثابت مثل راك السكوات حتى تثبت توازنك.",
+   "ارفع رجلك اليمنى قليلاً عن الأرض، وسوّي حركة دائرية بإبهام قدمك كأنك ترسم دائرة كبيرة (كل دورة كاملة تعتبر عدة واحدة)، وتنفّس بصورة طبيعية أثناء الحركة.",
+   "بعد ما تخلص من رجلك اليمنى، كرر نفس الحركة برجلك اليسرى."
+  ],
+  "instructions_en": [
+   "Use a sturdy object like a squat rack to hold yourself.",
+   "Lift the right leg in the air (just around 2 inches from the floor) and perform a circular motion with the big toe. Pretend that you are drawing a big circle with it. Tip: One circle equals 1 repetition. Breathe normally as you perform the movement.",
+   "When you are done with the right foot, then repeat with the left leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_Circles/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_Circles/1.jpg"
+  ]
+ },
+ {
+  "id": "Ankle_On_The_Knee",
+  "name_en": "Ankle On The Knee",
+  "name_ar": "إطالة الكاحل على الركبة",
+  "level": "مبتدئ",
+  "category": "إطالة",
+  "equipment": null,
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "الأرداف"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "تمدد على ظهرك، واثنِ ركبك مع تثبيت أقدامك على الأرض.",
+   "خلّي كاحل إحدى رجليك فوق ركبة الرجل الثانية.",
+   "الزم فخذ أو ركبة الرجل السفلية واسحب الرجلين باتجاه صدرك، وريّح رقبتك وكتافك، واثبت لمدة 10 إلى 20 ثانية، ثم بدّل على الجهة الثانية."
+  ],
+  "instructions_en": [
+   "From a lying position, bend your knees and keep your feet on the floor.",
+   "Place your ankle of one foot on your opposite knee.",
+   "Grasp the thigh or knee of the bottom leg and pull both of your legs into the chest. Relax your neck and shoulders. Hold for 10-20 seconds and then switch sides."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/1.jpg"
+  ]
+ },
+ {
+  "id": "Anterior_Tibialis-SMR",
+  "name_en": "Anterior Tibialis-SMR",
+  "name_ar": "مساج قصبة الساق بالرولر",
+  "level": "متوسط",
+  "category": "إطالة",
+  "equipment": "أخرى",
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "السمانة"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "اكعد على الأرض واثنِ رجليك مع تثبيت أقدامك على الأرض.",
+   "باستخدام رولر المساج، اضغط على العضلات الموجودة بالجانب الخارجي لقصبة الساق، وحرّكه من أسفل الركبة إلى أعلى الكاحل، مع التوقف عند نقاط الشد لمدة 10 إلى 30 ثانية، ثم كرر على الرجل الثانية."
+  ],
+  "instructions_en": [
+   "Begin seated on the ground with your legs bent and your feet on the floor.",
+   "Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+  ]
+ },
+ {
+  "id": "Anti-Gravity_Press",
+  "name_en": "Anti-Gravity Press",
+  "name_ar": "أنتي جرافيتي بريس (دفع عكس الجاذبية)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "منتصف الظهر",
+   "الترابيس",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "خلّي البار على الأرض خلف رأس بنش مائل (إنكلاين بنش).",
+   "نام على بطنك على البنش، والزم البار بقبضة يد يكون ظهرها للأعلى، واثنِ أكواعك وارفع البار ليكون قريب من صدرك، وهذا هو وضع البداية.",
+   "ادفع البار للأمام باتجاه رأسك بمد الأكواع بالكامل، وحافظ على ذراعيك موازية للأرض طوال الحركة.",
+   "ارجع ببطء لوضع البداية وكرر الحركة لإكمال السيت."
+  ],
+  "instructions_en": [
+   "Place a bar on the ground behind the head of an incline bench.",
+   "Lay on the bench face down. With a pronated grip, pick the barbell up from the floor. Flex the elbows, performing a reverse curl to bring the bar near your chest. This will be your starting position.",
+   "To begin, press the barbell out in front of your head by extending your elbows. Keep your arms parallel to the ground throughout the movement.",
+   "Return to the starting position and repeat to complete the set."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anti-Gravity_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anti-Gravity_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Arm_Circles",
+  "name_en": "Arm Circles",
+  "name_ar": "تدوير الذراعين",
+  "level": "مبتدئ",
+  "category": "إطالة",
+  "equipment": null,
+  "force": "دفع",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "اوكف ومد ذراعيك بصورة مستقيمة على الجوانب بحيث تكون موازية للأرض وبزاوية 90 درجة مع جسمك، وهذا هو وضع البداية.",
+   "ابدأ بعمل دوائر صغيرة وبطيئة بذراعيك الممدودة، وتنفّس بصورة طبيعية أثناء الأداء.",
+   "استمر بالدوران لمدة 10 ثوانٍ تقريباً، ثم اعكس اتجاه الدوران للجهة المعاكسة."
+  ],
+  "instructions_en": [
+   "Stand up and extend your arms straight out by the sides. The arms should be parallel to the floor and perpendicular (90-degree angle) to your torso. This will be your starting position.",
+   "Slowly start to make circles of about 1 foot in diameter with each outstretched arm. Breathe normally as you perform the movement.",
+   "Continue the circular motion of the outstretched arms for about ten seconds. Then reverse the movement, going the opposite direction."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/1.jpg"
+  ]
+ },
+ {
+  "id": "Arnold_Dumbbell_Press",
+  "name_en": "Arnold Dumbbell Press",
+  "name_ar": "أرنولد بريس بالدمبلز",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "اجلس على مقعد تمرين بمسند ظهر، وامسك دمبلين أمام أعلى صدرك بحيث تكون كفوف يديك متجهة لجسمك وأكواعك مثنية وقريبة من جذعك.",
+   "ابدأ برفع الدمبلز للأعلى ودوّر كفوف يديك تدريجياً أثناء الصعود حتى تصبح متجهة للأمام.",
+   "استمر بالرفع حتى تستقيم ذراعاك بالكامل فوق رأسك، وازفر (أخرج النفس) أثناء الصعود.",
+   "اثبت ثانية في الأعلى، ثم انزل بالدمبلز ببطء لنقطة البداية مع تدوير كفوفك للداخل باتجاهك مرة أخرى، وخذ شهيقاً أثناء النزول.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Sit on an exercise bench with back support and hold two dumbbells in front of you at about upper chest level with your palms facing your body and your elbows bent. Tip: Your arms should be next to your torso. The starting position should look like the contracted portion of a dumbbell curl.",
+   "Now to perform the movement, raise the dumbbells as you rotate the palms of your hands until they are facing forward.",
+   "Continue lifting the dumbbells until your arms are extended above you in straight arm position. Breathe out as you perform this portion of the movement.",
+   "After a second pause at the top, begin to lower the dumbbells to the original position by rotating the palms of your hands towards you. Tip: The left arm will be rotated in a counter clockwise manner while the right one will be rotated clockwise. Breathe in as you perform this portion of the movement.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Around_The_Worlds",
+  "name_en": "Around The Worlds",
+  "name_ar": "تمرين حول العالم (Around The World)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "الأكتاف"
+  ],
+  "instructions_ar": [
+   "استلقِ على بنش مستوٍ وامسك دمبل بكل يد بحيث تكون كفوفك متجهة للسقف وذراعاك ممدودتين بجانب فخذيك، مع ثني بسيط جداً بالكوعين لتجنب الإصابة.",
+   "حرّك الدمبلز بمسار نصف دائري واسع على الجانبين حتى تصبح فوق رأسك، مع الحفاظ على بقاء ذراعيك موازيتين للأرض طوال الحركة، وخذ شهيقاً أثناء الفتح.",
+   "اعكس الحركة وأرجع الدمبلز إلى وضع البداية بنفس المسار الدائري مع إخراج الزفير."
+  ],
+  "instructions_en": [
+   "Lay down on a flat bench holding a dumbbell in each hand with the palms of the hands facing towards the ceiling. Tip: Your arms should be parallel to the floor and next to your thighs. To avoid injury, make sure that you keep your elbows slightly bent. This will be your starting position.",
+   "Now move the dumbbells by creating a semi-circle as you displace them from the initial position to over the head. All of the movement should happen with the arms parallel to the floor at all times. Breathe in as you perform this portion of the movement.",
+   "Reverse the movement to return the weight to the starting position as you exhale."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Around_The_Worlds/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Around_The_Worlds/1.jpg"
+  ]
+ },
+ {
+  "id": "Atlas_Stone_Trainer",
+  "name_en": "Atlas Stone Trainer",
+  "name_ar": "تمرين جهاز أحجار أطلس",
+  "level": "متوسط",
+  "category": "سترونج مان",
+  "equipment": "أخرى",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "البايسبس",
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "الفخذ الأمامي"
+  ],
+  "instructions_ar": [
+   "هذا الجهاز مخصص لتطوير القوة لرفع أحجار أطلس لمن لا تتوفر لديهم كرات الحجر، ويكون عادة مصنوعاً من ماسورة أو بار حديدي سميك.",
+   "ضع الوزن المطلوب، وقف بفتح رجليك حول الوزن، ثم انحنِ من الورك ولف ذراعيك بإحكام حول الجهاز.",
+   "اسحب الوزن للأعلى وتجاوز به ركبتيك بفرد الورك، وبمجرد تجاوزهما، اجلس للخلف قليلاً وأسند الوزن على فخذيك واحضنه بقوة إلى صدرك.",
+   "اختم الحركة بفرد الورك والركبتين بقوة لرفع الوزن لأعلى نقطة ممكنة، ثم أنزله لفخذيك أو للأرض لتكرار المحاولة."
+  ],
+  "instructions_en": [
+   "This trainer is effective for developing Atlas Stone strength for those who don't have access to stones, and are typically made from bar ends or heavy pipe.",
+   "Begin by loading the desired weight onto the bar. Straddle the weight, wrapping your arms around the implement, bending at the hips.",
+   "Begin by pulling the weight up past the knees, extending through the hips. As the weight clears the knees, it can be lapped by resting it on your thighs and sitting back, hugging it tightly to your chest.",
+   "Finish the movement by extending through your hips and knees to raise the weight as high as possible. The weight can be returned to the lap or to the ground for successive repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stone_Trainer/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stone_Trainer/1.jpg"
+  ]
+ },
+ {
+  "id": "Atlas_Stones",
+  "name_en": "Atlas Stones",
+  "name_ar": "رفع أحجار أطلس (Atlas Stones)",
+  "level": "متقدم",
+  "category": "سترونج مان",
+  "equipment": "أخرى",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "عضلات البطن",
+   "العضلات المقرِّبة (داخل الفخذ)",
+   "البايسبس",
+   "السمانة",
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "منتصف الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "ضع الحجر بين قدميك، وانحنِ من الورك ولف ذراعيك حول الحجر عمودياً وحاول إدخال أصابعك تحته بإحكام قدر الإمكان.",
+   "اسحب الحجر باتجاه جذعك، وادفع بقوة بكعوب قدميك لرفع الحجر عن الأرض.",
+   "عندما يعبر الحجر مستوى ركبتيك، اجلس للخلف قليلاً وثبّت الحجر فوق فخذيك.",
+   "انزل بوركك واحضن الحجر عالياً على صدرك مع تغيير قبضتك لتصبح فوق الحجر، ثم قف وافرد وركك بقوة لوضع الحجر على منصة الرفع."
+  ],
+  "instructions_en": [
+   "Begin with the atlas stone between your feet. Bend at the hips to wrap your arms vertically around the Atlas Stone, attempting to get your fingers underneath the stone. Many stones will have a small flat portion on the bottom, which will make the stone easier to hold.",
+   "Pulling the stone into your torso, drive through the back half of your feet to pull the stone from the ground.",
+   "As the stone passes the knees, lap it by sitting backward, pulling the stone on top of your thighs.",
+   "Sit low, getting the stone high onto your chest as you change your grip to reach over the stone. Stand, driving through with your hips. Close distance to the loading platform, and lean back, extending the hips to get the stone as high as possible."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stones/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Atlas_Stones/1.jpg"
+  ]
+ },
+ {
+  "id": "Axle_Deadlift",
+  "name_en": "Axle Deadlift",
+  "name_ar": "أكسل ديدلفت (ديدلفت بالبار العريض)",
+  "level": "متوسط",
+  "category": "سترونج مان",
+  "equipment": "أخرى",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "منتصف الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "قف أمام البار بحيث يكون فوق منتصف قدميك وتكون المسافة بين القدمين بعرض الورك، وانحنِ لتمسك البار بقبضة بعرض الكتفين (يُفضل استخدام القبضة العكسية: يد للأمام ويد للخلف).",
+   "اضبط وقفتك وقبضتك، خذ نفساً عميقاً ثم انزل بالورك واثنِ ركبتيك حتى تلامس ساقاك البار، مع رفع الصدر والحفاظ على استقامة الظهر، ثم ادفع بكعبيك لبدء رفع الوزن.",
+   "بعد أن يتجاوز البار ركبتيك، اسحبه بقوة للخلف وادفع الورك للأمام مع ضم لوحي الكتف للخلف للوقوف بشكل مستقيم.",
+   "أنزل البار للأسفل بالانحناء من الورك أولاً مع التحكم بنزوله حتى يلمس الأرض."
+  ],
+  "instructions_en": [
+   "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an over/under grip.",
+   "With your feet and your grip set, take a big breath and then lower your hips and flex the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward.",
+   "After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+   "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Axle_Deadlift/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Axle_Deadlift/1.jpg"
+  ]
+ },
+ {
+  "id": "Back_Flyes_-_With_Bands",
+  "name_en": "Back Flyes - With Bands",
+  "name_ar": "رفرفة خلفي بحبل المقاومة (باك فلاي)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أحزمة مطاطية",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "منتصف الظهر",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "ثبّت حبل المقاومة حول عامود ثابت مثل راك السكوات.",
+   "امسك مقابض الحبل وارجع للخلف حتى يشد الحبل.",
+   "مد ذراعيك للأمام بمستوى صدرك وتكون موازية للأرض، وثبّت قدميك باتساع الكتفين، وهذه وضعية البداية.",
+   "مع الزفير، افتح ذراعيك للخلف والجانبين مع الحفاظ على استقامتها حتى تصل لمستوى كتفيك.",
+   "اثبت لثانية، ثم ارجع للوضعية الأولى ببطء مع أخذ شهيق.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Run a band around a stationary post like that of a squat rack.",
+   "Grab the band by the handles and stand back so that the tension in the band rises.",
+   "Extend and lift the arms straight in front of you. Tip: Your arms should be straight and parallel to the floor while perpendicular to your torso. Your feet should be firmly planted on the floor spread at shoulder width. This will be your starting position.",
+   "As you exhale, move your arms to the sides and back. Keep your arms extended and parallel to the floor. Continue the movement until the arms are extended to your sides.",
+   "After a pause, go back to the original position as you inhale.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/1.jpg"
+  ]
+ },
+ {
+  "id": "Backward_Drag",
+  "name_en": "Backward Drag",
+  "name_ar": "سحب الزلاجة للخلف (باكوارد دراغ)",
+  "level": "مبتدئ",
+  "category": "سترونج مان",
+  "equipment": "أخرى",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "حمّل الزلاجة (سليد) بالوزن المطلوب، واربط بها حبل أو أربطة مخصصة للإمساك.",
+   "ابدأ بالحركة بالرجوع للخلف لمسافة محددة، مع إمالة جسمك للخلف ودفع الأرض بخطوات قصيرة وسريعة."
+  ],
+  "instructions_en": [
+   "Load a sled with the desired weight, attaching a rope or straps to the sled that you can hold onto.",
+   "Begin the exercise by moving backwards for a given distance. Leaning back, extend through the legs for short steps to move as quickly as possible."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/1.jpg"
+  ]
+ },
+ {
+  "id": "Backward_Medicine_Ball_Throw",
+  "name_en": "Backward Medicine Ball Throw",
+  "name_ar": "رمي الكرة الطبية للخلف",
+  "level": "مبتدئ",
+  "category": "تمارين القفز (بلايومترك)",
+  "equipment": "كرة طبية",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "يُفضّل أداء هذا التمرين مع شريك، وإذا لم يتوفر فيمكنك رميها للجدار أو التقاطها بنفسك.",
+   "قف على مسافة أمتار قليلة أمام شريكك وبنفس اتجاه نظره، ممسكاً بالكرة بين ساقيك.",
+   "انزل بوضعية السكوات، ثم ادفع للأعلى بقوة وافرد جسمك بالكامل وارمِ الكرة من فوق رأسك لشريكك.",
+   "يدحرج شريكك الكرة إليك مرة أخرى، وكرر التمرين للعدد المطلوب."
+  ],
+  "instructions_en": [
+   "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
+   "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
+   "Squat down and then forcefully reverse direction, coming to full extension and you toss the ball over your head to your partner.",
+   "Your partner can then roll the ball back to you. Repeat for the desired number of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Medicine_Ball_Throw/1.jpg"
+  ]
+ },
+ {
+  "id": "Balance_Board",
+  "name_en": "Balance Board",
+  "name_ar": "تمرين لوح التوازن (بلانس بورد)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أخرى",
+  "force": null,
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "السمانة"
+  ],
+  "secondary_muscles": [
+   "الفخذ الخلفي",
+   "الفخذ الأمامي"
+  ],
+  "instructions_ar": [
+   "ضع لوح التوازن على الأرض أمامك.",
+   "اصعد فوق اللوح وحاول الحفاظ على توازن جسمك.",
+   "اثبت على اللوح لأطول فترة زمنية مطلوبة."
+  ],
+  "instructions_en": [
+   "Place a balance board in front of you.",
+   "Stand up on it and try to balance yourself.",
+   "Hold the balance for as long as desired."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Balance_Board/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Balance_Board/1.jpg"
+  ]
+ },
+ {
+  "id": "Ball_Leg_Curl",
+  "name_en": "Ball Leg Curl",
+  "name_ar": "كيرل خلفي على كرة التمارين (بول ليغ كيرل)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كرة تمارين",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف"
+  ],
+  "instructions_ar": [
+   "استلقِ على ظهرك على الأرض وضع قدميك فوق الكرة السويسرية.",
+   "اضبط وضعية الكرة لتكون كواحلك فوقها مباشرة مع تمديد رجليك بالكامل، وهذه وضعية البداية.",
+   "ارفع خصرك عن الأرض بحيث يرتكز وزن جسمك على لوحي الكتف وقدميك.",
+   "اثنِ ركبتيك واسحب الكرة باتجاهك لأقرب نقطة ممكنة، مع عصر عضلات الفخذ الخلفية بقوة.",
+   "بعد توقف قصير، مد رجليك وارجع للوضعية الأولى بتحكّم."
+  ],
+  "instructions_en": [
+   "Begin on the floor laying on your back with your feet on top of the ball.",
+   "Position the ball so that when your legs are extended your ankles are on top of the ball. This will be your starting position.",
+   "Raise your hips off of the ground, keeping your weight on the shoulder blades and your feet.",
+   "Flex the knees, pulling the ball as close to you as you can, contracting the hamstrings.",
+   "After a brief pause, return to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ball_Leg_Curl/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Assisted_Pull-Up",
+  "name_en": "Band Assisted Pull-Up",
+  "name_ar": "عُقلة بمساعدة الباند (Band Assisted Pull-Up)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أخرى",
+  "force": null,
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الظهر العريض (اللاتس)"
+  ],
+  "secondary_muscles": [
+   "عضلات البطن",
+   "الساعد",
+   "منتصف الظهر"
+  ],
+  "instructions_ar": [
+   "ثبت الباند في منتصف بار العُقلة بعقدة محكمة. يمكنك استخدام باند بمقاومة مختلفة حسب مستوى المساعدة المطلوب.",
+   "اسحب طرف الباند للأسفل وضع ركبة واحدة مثنية داخله لضمان عدم انزلاقه، ثم امسك البار بقبضة متوسطة إلى واسعة، وهذه هي نقطة البداية.",
+   "اسحب جسمك للأعلى بعصر عضلات الظهر الجانبية (اللاتس) مع ثني الكوعين للداخل باتجاه جوانبك، واصعد حتى يتجاوز ذقنك البار بدون مرجحة.",
+   "اثبت ثانية في الأعلى، ثم انزل ببطء وتحكم إلى وضع البداية."
+  ],
+  "instructions_en": [
+   "Choke the band around the center of the pullup bar. You can use different bands to provide varying levels of assistance.",
+   "Pull the end of the band down, and place one bent knee into the loop, ensuring it won't slip out. Take a medium to wide grip on the bar. This will be your starting position.",
+   "Pull yourself upward by contracting the lats as you flex the elbow. The elbow should be driven to your side. Pull to the front, attempting to get your chin over the bar. Avoid swinging or jerking movements.",
+   "After a brief pause, return to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Good_Morning",
+  "name_en": "Band Good Morning",
+  "name_ar": "كود مورنينغ بالباند (Band Good Morning)",
+  "level": "مبتدئ",
+  "category": "باور لفتنج",
+  "equipment": "أحزمة مطاطية",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "الأرداف",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "قف بقدميك متباعدتين قليلاً فوق طرف الباند، ثم انحنِ من الورك وضع الطرف الآخر خلف رقبتك، وهذه هي نقطة البداية.",
+   "حافظ على استقامة ساقيك مع ثنية خفيفة جداً، وادفع الورك للأمام لتستقيم بجسمك بالكامل تقريباً.",
+   "تأكد من عدم تقوس ظهرك أثناء النزول والرجوع لوضع البداية."
+  ],
+  "instructions_en": [
+   "Using a 41 inch band, stand on one end, spreading your feet a small amount. Bend at the hips to loop the end of the band behind your neck. This will be your starting position.",
+   "Keeping your legs straight, extend through the hips to come to a near vertical position.",
+   "Ensure that you do not round your back as you go down back to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Good_Morning/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Good_Morning/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Good_Morning_Pull_Through",
+  "name_en": "Band Good Morning (Pull Through)",
+  "name_ar": "كود مورنينغ سحب بالباند (Band Good Morning Pull Through)",
+  "level": "مبتدئ",
+  "category": "باور لفتنج",
+  "equipment": "أحزمة مطاطية",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "الأرداف",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "ثبت الباند حول عامود، وابتعد مسافة مناسبة، ثم ضع الطرف الآخر خلف رقبتك وثبته بيديك.",
+   "ابدأ بثني الورك ودفع مؤخرتك للخلف لأبعد نقطة، وحافظ على استقامة ظهرك مع الانحناء للأمام بزاوية 90 درجة تقريباً وثنية بسيطة بالركبة.",
+   "ارجع لوضع البداية بدفع الورك للأمام بقوة حتى تصل لوضعية الوقوف المستقيم."
+  ],
+  "instructions_en": [
+   "Loop the band around a post. Standing a little ways away, loop the opposite end around the neck. Your hands can help hold the band in position.",
+   "Begin by bending at the hips, getting your butt back as far as possible. Keep your back flat and bend forward to about 90 degrees. Your knees should be only slightly bent.",
+   "Return to the starting position be driving through with the hips to come back to a standing position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Good_Morning_Pull_Through/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Good_Morning_Pull_Through/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Hip_Adductions",
+  "name_en": "Band Hip Adductions",
+  "name_ar": "تمرين عضلات الورك بالباند (Band Hip Adductions)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أحزمة مطاطية",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "العضلات المقرِّبة (داخل الفخذ)"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "ثبت الباند حول عامود قوي أو قاعدة ثابتة بارتفاع منخفض.",
+   "قف بجانبك الأيسر نحو العامود، وأدخل قدمك اليمنى داخل الباند بحيث يستقر حول الكاحل.",
+   "قف باستقامة مع الإمساك بالعامود للتوازن إذا لزم الأمر، وهذه هي نقطة البداية.",
+   "حافظ على ركبتك مستقيمة، وارفع/حرّك رجلك اليمنى للجانب لأبعد مدى حركي ممكن.",
+   "ارجع لوضع البداية ببطء، وكرر الحركة للعدد المطلوب.",
+   "بدل الاتجاه وكرر نفس الخطوات للساق الأخرى."
+  ],
+  "instructions_en": [
+   "Anchor a band around a solid post or other object.",
+   "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",
+   "Stand up straight and hold onto the post if needed. This will be your starting position.",
+   "Keeping the knee straight, raise your right legs out to the side as far as you can.",
+   "Return to the starting position and repeat for the desired rep count.",
+   "Switch sides."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Hip_Adductions/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Hip_Adductions/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Pull_Apart",
+  "name_en": "Band Pull Apart",
+  "name_ar": "سحب الباند الخلفي (Band Pull Apart)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أحزمة مطاطية",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "منتصف الظهر",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "ابدأ بمد ذراعيك للأمام بشكل مستقيم بمستوى الصدر وأنت ممسك بالباند بكلتا يديك.",
+   "ابدأ الحركة بفتح ذراعيك إلى الجانبين بحركة رفرفة خلفية (ريفيرس فلاي).",
+   "حافظ على كوعيك مستقيمين أثناء الحركة واسحب الباند حتى يلامس صدرك مع عصر لوحي الكتف للخلف.",
+   "توقف للحظة عند أقصى فتحة، ثم ارجع ببطء وتحكم إلى نقطة البداية."
+  ],
+  "instructions_en": [
+   "Begin with your arms extended straight out in front of you, holding the band with both hands.",
+   "Initiate the movement by performing a reverse fly motion, moving your hands out laterally to your sides.",
+   "Keep your elbows extended as you perform the movement, bringing the band to your chest. Ensure that you keep your shoulders back during the exercise.",
+   "Pause as you complete the movement, returning to the starting position under control."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+  ]
+ },
+ {
+  "id": "Band_Skull_Crusher",
+  "name_en": "Band Skull Crusher",
+  "name_ar": "ترايسبس بالباند (سكل كراشر)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "أحزمة مطاطية",
+  "force": "دفع",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الترايسبس"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "ثبّت الباند المطاطي بقاعدة الراك أو البنش، وتمدد على ظهرك بحيث يكون الباند بمحاذاة رأسك.",
+   "امسك الباند وارفع كوعيك بحيث يكون الجزء العلوي من ذراعيك عمودياً على الأرض والكوع مثني فوق رأسك؛ هذه نقطة البداية.",
+   "افرد ذراعيك للأعلى عن طريق بسط الكوع مع تثبيت الجزء العلوي من الذراع، توقف لثانية في الأعلى ثم ارجع لنقطة البداية ببطء."
+  ],
+  "instructions_en": [
+   "Secure a band to the base of a rack or the bench. Lay on the bench so that the band is lined up with your head.",
+   "Take hold of the band, raising your elbows so that the upper arm is perpendicular to the floor. With the elbow flexed, the band should be above your head. This will be your starting position.",
+   "Extend through the elbow to straighten your arm, keeping your upper arm in place. Pause at the top of the motion, and return to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Skull_Crusher/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Skull_Crusher/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Ab_Rollout",
+  "name_en": "Barbell Ab Rollout",
+  "name_ar": "دحرجة البار للبطن (آب رول أوت كامل)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "أسفل الظهر",
+   "الأكتاف"
+  ],
+  "instructions_ar": [
+   "اتخذ وضعية شناو كاملة، لكن بدلاً من وضع يديك على الأرض، امسك بار أولمبي محمل بأوزان خفيفة على الجانبين؛ هذه نقطة البداية.",
+   "مع الحفاظ على تقوس خفيف وثابت في ظهرك، ارفع حوضك ودحرج البار باتجاه قدميك مع إخراج الزفير. حافظ على شد عضلات بطنك وبقاء ذراعيك عموديتين على الأرض.",
+   "بعد الثبات والانقباض لثانية في الأعلى، دحرج البار للأمام ببطء لتعود إلى وضعية البداية مع أخذ شهيق.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "For this exercise you will need to get into a pushup position, but instead of having your hands of the floor, you will be grabbing on to an Olympic barbell (loaded with 5-10 lbs on each side) instead. This will be your starting position.",
+   "While keeping a slight arch on your back, lift your hips and roll the barbell towards your feet as you exhale. Tip: As you perform the movement, your glutes should be coming up, you should be keeping the abs tight and should maintain your back posture at all times. Also your arms should be staying perpendicular to the floor throughout the movement. If you don't, you will work out your shoulders and back more than the abs.",
+   "After a second contraction at the top, start to roll the barbell back forward to the starting position slowly as you inhale.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Ab_Rollout_-_On_Knees",
+  "name_en": "Barbell Ab Rollout - On Knees",
+  "name_ar": "دحرجة البار للبطن على الركب (آب رول أوت)",
+  "level": "متقدم",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "أسفل الظهر",
+   "الأكتاف"
+  ],
+  "instructions_ar": [
+   "امسك بار أولمبي محمل بأوزان خفيفة على الجانبين واجلس على ركبتيك على الأرض.",
+   "ضع البار على الأرض أمامك وتمركز في وضعية شناو الركبتين؛ هذه نقطة البداية.",
+   "دحرج البار ببطء للأمام مع فرد جسمك باستقامة ونزوله لأقصى حد ممكن دون ملامسة الأرض، مع أخذ شهيق أثناء التمدد.",
+   "توقف لثانية واحدة في أقصى تمدد، ثم اسحب نفسك للخلف للعودة إلى وضعية البداية مع إخراج الزفير والتركيز على شد البطن."
+  ],
+  "instructions_en": [
+   "Hold an Olympic barbell loaded with 5-10lbs on each side and kneel on the floor.",
+   "Now place the barbell on the floor in front of you so that you are on all your hands and knees (as in a kneeling push up position). This will be your starting position.",
+   "Slowly roll the barbell straight forward, stretching your body into a straight position. Tip: Go down as far as you can without touching the floor with your body. Breathe in during this portion of the movement.",
+   "After a second pause at the stretched position, start pulling yourself back to the starting position as you breathe out. Tip: Go slowly and keep your abs tight at all times."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "name_en": "Barbell Bench Press - Medium Grip",
+  "name_ar": "بنش بريس بالبار - قبضة متوسطة",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "الأكتاف",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "استلقِ على بنش مستوٍ، وامسك البار بقبضة متوسطة الاتساع، ارفعه من الراك وثبته فوق صدرك مباشرة مع فرد الذراعين؛ هذه نقطة البداية.",
+   "خذ شهيقاً وانزل بالبار ببطء وتحكم حتى يلامس منتصف صدرك.",
+   "ادفع البار للأعلى بقوة عضلات الصدر مع إخراج الزفير حتى تفرد ذراعيك واعصر صدرك في الأعلى لثانية، ثم انزل ببطء مجدداً.",
+   "كرر الحركة حسب العدد المطلوب من التكرارات.",
+   "بعد الانتهاء، أعد البار بأمان إلى الراك."
+  ],
+  "instructions_en": [
+   "Lie back on a flat bench. Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+   "From the starting position, breathe in and begin coming down slowly until the bar touches your middle chest.",
+   "After a brief pause, push the bar back to the starting position as you breathe out. Focus on pushing the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position at the top of the motion, hold for a second and then start coming down slowly again. Tip: Ideally, lowering the weight should take about twice as long as raising it.",
+   "Repeat the movement for the prescribed amount of repetitions.",
+   "When you are done, place the bar back in the rack."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Curl",
+  "name_en": "Barbell Curl",
+  "name_ar": "بايسبس بالبار واقف (باربل كيرل)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "البايسبس"
+  ],
+  "secondary_muscles": [
+   "الساعد"
+  ],
+  "instructions_ar": [
+   "قف بجسم مستقيم وامسك البار بقبضة بعرض الكتفين، مع توجيه راحتي يديك للأمام وإبقاء كوعيك قريبين من جانب جسمك؛ هذه نقطة البداية.",
+   "مع تثبيت الذراعين العلويين، ارفع البار للأعلى بثني الكوع وعصر عضلة البايسبس مع إخراج الزفير (حرّك الساعدين فقط).",
+   "استمر بالرفع حتى ينقبض البايسبس بالكامل ويصل البار لمستوى الكتف، واثبت لثانية مع عصر العضلة بقوة.",
+   "أنزل البار ببطء وتحكم إلى نقطة البداية مع أخذ شهيق.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position.",
+   "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
+   "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+   "Slowly begin to bring the bar back to starting position as your breathe in.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Curls_Lying_Against_An_Incline",
+  "name_en": "Barbell Curls Lying Against An Incline",
+  "name_ar": "تبايسبس باربل نائم على بنش مائل (سبايدر كيرل)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "البايسبس"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ بصدرك على بنش مائل، وامسك الباربل بذراعين متدليتين للأسفل باتجاه الأرض. هذه هي نقطة البداية.",
+   "حافظ على ثبات الجزء العلوي من الذراعين، وارفع البار للأعلى مع عصر عضلة البايسبس بقوة، وازفر أثناء الرفع. ملاحظة: حرّك الساعدين فقط وتجنب مرجحة الذراعين.",
+   "بعد الثبات لثانية في الأعلى، انزل بالبار ببطء إلى نقطة البداية مع أخذ نفس (شهيق). تأكد من فرد الذراعين بالكامل للأسفل.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Lie against an incline bench, with your arms holding a barbell and hanging down in a horizontal line. This will be your starting position.",
+   "While keeping the upper arms stationary, curl the weight up as high as you can while squeezing the biceps. Breathe out as you perform this portion of the movement. Tip: Only the forearms should move. Do not swing the arms.",
+   "After a second contraction, slowly go back to the starting position as you inhale. Tip: Make sure that you go all of the way down.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curls_Lying_Against_An_Incline/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curls_Lying_Against_An_Incline/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Deadlift",
+  "name_en": "Barbell Deadlift",
+  "name_ar": "ديدلفت بالباربل (Barbell Deadlift)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "الظهر العريض (اللاتس)",
+   "منتصف الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "قف أمام الباربل المحمل بالأوزان بحيث تكون الساقين قريبة من البار.",
+   "حافظ على استقامة ظهرك تماماً، واثنِ ركبتيك ومِل للأمام وامسك البار بقبضة متوسطة (بعرض الكتفين) وبكفوف متجهة للأسفل. هذه هي نقطة البداية. (ملاحظة: يمكنك استخدام قبضة متعاكسة أو أحزمة سحب إذا واجهت صعوبة).",
+   "ابدأ بالرفع من خلال الدفع بقدميك نحو الأرض مع فرد الجذع للأعلى حتى تصبح بوضعية الوقوف التام وأخرج الزفير. في الأعلى، ادفع صدرك للأمام وارجع لوحي الكتف للخلف كوقفة الانضباط العسكري.",
+   "انزل بالبار لنقطة البداية عن طريق ثني الركبتين وإرجاع الحوض للخلف مع الحفاظ على استقامة الظهر التامة حتى تلمس الأوزان الأرض.",
+   "كرر التمرين للعدد المحدد في برنامجك التدريبي."
+  ],
+  "instructions_en": [
+   "Stand in front of a loaded barbell.",
+   "While keeping the back as straight as possible, bend your knees, bend forward and grasp the bar using a medium (shoulder width) overhand grip. This will be the starting position of the exercise. Tip: If it is difficult to hold on to the bar with this grip, alternate your grip or use wrist straps.",
+   "While holding the bar, start the lift by pushing with your legs while simultaneously getting your torso to the upright position as you breathe out. In the upright position, stick your chest out and contract the back by bringing the shoulder blades back. Think of how the soldiers in the military look when they are in standing in attention.",
+   "Go back to the starting position by bending at the knees while simultaneously leaning the torso forward at the waist while keeping the back straight. When the weights on the bar touch the floor you are back at the starting position and ready to perform another repetition.",
+   "Perform the amount of repetitions prescribed in the program."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Full_Squat",
+  "name_en": "Barbell Full Squat",
+  "name_ar": "سكوات كامل بالبار (Full Squat)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "أسفل الظهر"
+  ],
+  "instructions_ar": [
+   "يُفضل أداء التمرين داخل الراك (Squat Rack) للأمان. اضبط البار بارتفاع أقل من مستوى الكتف بقليل، ثم انزل تحته وضع البار على أعلى عضلات الظهر (أسفل الرقبة قليلاً).",
+   "امسك البار بيديك من الجانبين وارفعه من الراك بالدفع برجليك مع فرد الظهر بالكامل.",
+   "ارجع خطوة للخلف وافتح رجليك بعرض الكتفين مع توجيه مشط القدم قليلاً للخارج، وحافظ على رفع رأسك واستقامة ظهرك طوال الوقت. هذه هي نقطة البداية.",
+   "ابدأ بالنزول ببطء عن طريق ثني الركبتين وإرجاع الحوض للخلف كأنك تجلس على كرسي، مع الحفاظ على استقامة الظهر، واستمر بالنزول الكامل حتى تلامس الفخذين بطات الأرجل، واكتم النفس أو خذ شهيق أثناء النزول.",
+   "ادفع الأرض بكعبي قدميك وافرد رجليك وحوضك للرجوع لنقطة البداية مع إخراج الزفير.",
+   "كرر الحركة حسب عدد التكرارات المطلوب."
+  ],
+  "instructions_en": [
+   "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just above shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+   "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+   "Step away from the rack and position your legs using a shoulder-width medium stance with the toes slightly pointed out. Keep your head up at all times and maintain a straight back. This will be your starting position.",
+   "Begin to slowly lower the bar by bending the knees and sitting back with your hips as you maintain a straight posture with the head up. Continue down until your hamstrings are on your calves. Inhale as you perform this portion of the movement.",
+   "Begin to raise the bar as you exhale by pushing the floor with the heel or middle of your foot as you straighten the legs and extend the hips to go back to the starting position.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Glute_Bridge",
+  "name_en": "Barbell Glute Bridge",
+  "name_ar": "جلوت بريدج بالباربل (Barbell Glute Bridge)",
+  "level": "متوسط",
+  "category": "باور لفتنج",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأرداف"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الفخذ الخلفي"
+  ],
+  "instructions_ar": [
+   "اجلس على الأرض وضع الباربل فوق رجليك (يُفضّل استخدام إسفنجة حماية على البار لتقليل الضغط). دحرج البار حتى يستقر فوق منطقة الحوض مباشرة، ثم استلقِ بظهرك ممدداً على الأرض مع ثني الركبتين.",
+   "ابدأ الحركة بالدفع بقوة من خلال كعبي قدميك، وارفع حوضك للأعلى بشكل مستقيم حاملاً البار، ليكون ارتكازك على أعلى ظهرك وكعبيك فقط.",
+   "ارفع الحوض لأعلى مدى ممكن مع عصر عضلات الجلوتس (المؤخرة)، ثم انزل ببطء وتحكم للعودة إلى وضع البداية."
+  ],
+  "instructions_en": [
+   "Begin seated on the ground with a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise. Roll the bar so that it is directly above your hips, and lay down flat on the floor.",
+   "Begin the movement by driving through with your heels, extending your hips vertically through the bar. Your weight should be supported by your upper back and the heels of your feet.",
+   "Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Guillotine_Bench_Press",
+  "name_en": "Barbell Guillotine Bench Press",
+  "name_ar": "بنش بريس مقصلة بالبار (Guillotine Bench Press)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "الأكتاف",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "امسك البار بقبضة متوسطة الاتساع، ارفعه من الراك وثبته مباشرة فوق مستوى رقبتك مع قفل المرفقين. هذه هي نقطة البداية.",
+   "أنزل البار ببطء وتركيز باتجاه رقبتك مع أخذ شهيق، وتوقف قبل أن يلمس رقبتك بمسافة إنش واحد (حوالي 2-3 سم).",
+   "توقف لثانية واحدة، ثم ادفع البار للأعلى بقوة عضلات الصدر حتى تعود لنقطة البداية مع إخراج الزفير، واقفل ذراعيك واعصر الصدر لثانية، ثم كرر النزول ببطء (اجعل وقت النزول ضعف وقت الصعود).",
+   "كرر الحركة للعدد المحدد من التكرارات.",
+   "بعد الانتهاء من التكرارات، أعد البار بأمان إلى الراك."
+  ],
+  "instructions_en": [
+   "Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over your neck with your arms locked. This will be your starting position.",
+   "As you breathe in, bring the bar down slowly until it is about 1 inch from your neck.",
+   "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. It should take at least twice as long to go down than to come up.",
+   "Repeat the movement for the prescribed amount of repetitions.",
+   "When you are done, place the bar back in the rack."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Hack_Squat",
+  "name_en": "Barbell Hack Squat",
+  "name_ar": "هاك سكوات بالبار (Barbell Hack Squat)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الساعد",
+   "الفخذ الخلفي"
+  ],
+  "instructions_ar": [
+   "اقف مستقيماً وأمسك البار خلفك بمستوى طول ذراعيك، مع فتح قدميك بعرض الكتفين (يُفضّل قبضة بعرض الكتفين بحيث تكون راحة اليد للخلف، ويمكنك استخدام أحزمة معصم). هذه نقطة البداية.",
+   "حافظ على ظهرك مستقيماً ونظرك للأمام، وانزل بوضعية السكوات حتى يصبح فخذاك موازيين للأرض، مع أخذ شهيق أثناء النزول ببطء.",
+   "ادفع بالتركيز على كعب القدم مع عصر عضلات الفخذ للصعود للأعلى، وأخرج الزفير.",
+   "كرر الحركة حسب عدد التكرارات المطلوب."
+  ],
+  "instructions_en": [
+   "Stand up straight while holding a barbell behind you at arms length and your feet at shoulder width. Tip: A shoulder width grip is best with the palms of your hands facing back. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
+   "While keeping your head and eyes up and back straight, squat until your upper thighs are parallel to the floor. Breathe in as you slowly go down.",
+   "Pressing mainly with the heel of the foot and squeezing the thighs, go back up as you breathe out.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hack_Squat/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hack_Squat/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Hip_Thrust",
+  "name_en": "Barbell Hip Thrust",
+  "name_ar": "هيب ثرست بالبار (Barbell Hip Thrust)",
+  "level": "متوسط",
+  "category": "باور لفتنج",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأرداف"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الفخذ الخلفي"
+  ],
+  "instructions_ar": [
+   "اجلس على الأرض والبنش خلفك مباشرة، وضع البار المحمّل بالأوزان فوق ساقيك (يُستحسن وضع إسفنجة حماية على البار لتقليل الضغط).",
+   "دحرج البار حتى يصبح فوق منطقة الحوض تماماً، وأسند أعلى ظهرك (لوحي الكتف) على حافة البنش.",
+   "ابدأ بالدفع من كعبي قدميك وارفع حوضك للأعلى بمحاذاة البار حتى يستقيم جسمك، ثم انزل ببطء لنقطة البداية. الحركة ترتكز على لوحي الكتف والقدمين."
+  ],
+  "instructions_en": [
+   "Begin seated on the ground with a bench directly behind you. Have a loaded barbell over your legs. Using a fat bar or having a pad on the bar can greatly reduce the discomfort caused by this exercise.",
+   "Roll the bar so that it is directly above your hips, and lean back against the bench so that your shoulder blades are near the top of it.",
+   "Begin the movement by driving through your feet, extending your hips vertically through the bar. Your weight should be supported by your shoulder blades and your feet. Extend as far as possible, then reverse the motion to return to the starting position."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+  "name_en": "Barbell Incline Bench Press - Medium Grip",
+  "name_ar": "بنش بريس مائل بالبار - قبضة متوسطة",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "الأكتاف",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "استلقِ على بنش مائل للأعلى، وأمسك البار بقبضة متوسطة الاتساع، وارفعه من الحامل وثبته فوقك بذراعين ممدودتين. هذه نقطة البداية.",
+   "انزل بالبار ببطء باتجاه أعلى الصدر مع أخذ شهيق.",
+   "توقف لثانية، ثم ادفع البار للأعلى باستخدام عضلات الصدر مع إخراج الزفير، واضغط على عضلة الصدر في الأعلى ثم انزل ببطء مجدداً.",
+   "كرر الحركة للعدد المحدد من التكرارات.",
+   "عند الانتهاء، أعد البار إلى الحامل بأمان."
+  ],
+  "instructions_en": [
+   "Lie back on an incline bench. Using a medium-width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+   "As you breathe in, come down slowly until you feel the bar on you upper chest.",
+   "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly again. Tip: it should take at least twice as long to go down than to come up.",
+   "Repeat the movement for the prescribed amount of repetitions.",
+   "When you are done, place the bar back in the rack."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Incline_Shoulder_Raise",
+  "name_en": "Barbell Incline Shoulder Raise",
+  "name_ar": "رفع الأكتاف بالبار على بنش مائل",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الصدر"
+  ],
+  "instructions_ar": [
+   "استلقِ على بنش مائل للأعلى، وأمسك البار بقبضة أوسع قليلاً من عرض الكتفين، وارفعه فوقك بذراعين مستقيمتين تماماً. هذه نقطة البداية.",
+   "مع الحفاظ على استقامة ذراعيك دون ثني، ارفع البار لأعلى مسافة ممكنة بدفع لوحي كتفيك عن البنش مع إخراج الزفير.",
+   "أنزل لوحي كتفيك ببطء للعودة إلى وضع البداية مع أخذ شهيق.",
+   "كرر الحركة حسب عدد التكرارات المطلوب."
+  ],
+  "instructions_en": [
+   "Lie back on an Incline Bench. Using a medium width grip (a grip that is slightly wider than shoulder width), lift the bar from the rack and hold it straight over you with your arms straight. This will be your starting position.",
+   "While keeping the arms straight, lift the bar by protracting your shoulder blades, raising the shoulders from the bench as you breathe out.",
+   "Bring back the bar to the starting position as you breathe in.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Shoulder_Raise/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Shoulder_Raise/1.jpg"
+  ]
+ },
+ {
+  "id": "Barbell_Lunge",
+  "name_en": "Barbell Lunge",
+  "name_ar": "لانجز بالبار (Barbell Lunge)",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الأمامي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف",
+   "الفخذ الخلفي"
+  ],
+  "instructions_ar": [
+   "يُفضل أداء التمرين داخل راك السكوات؛ اضبط البار أسفل مستوى الكتفين بقليل، ثم ادخل تحته وثبته على عضلات أعلى الظهر (أسفل الرقبة).",
+   "أمسك البار بيديك وارفع جسمك بالدفع بساقيك لفصله عن الراك مع استقامة الجذع.",
+   "تراجع خطوة، ثم اخطُ للأمام بالرجل اليمنى وانزل بالحوض مع الحفاظ على استقامة ظهرك وتوازنك وخذ شهيقاً (تجنب تقدم ركبتك أمام أصابع قدمك).",
+   "ادفع بكعب قدمك الأمامية للرجوع إلى وضع البداية مع إخراج الزفير.",
+   "كرر الحركة للعدد المطلوب ثم نفّذ نفس الخطوات بالساق اليسرى."
+  ],
+  "instructions_en": [
+   "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack just below shoulder level. Once the correct height is chosen and the bar is loaded, step under the bar and place the back of your shoulders (slightly below the neck) across it.",
+   "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+   "Step away from the rack and step forward with your right leg and squat down through your hips, while keeping the torso upright and maintaining balance. Inhale as you go down. Note: Do not allow your knee to go forward beyond your toes as you come down, as this will put undue stress on the knee joint. li>",
+   "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
+   "Repeat the movement for the recommended amount of repetitions and then perform with the left leg."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Lunge/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Lunge/1.jpg"
+  ]
+ },
+ {
+  "id": "Cable_Rope_Overhead_Triceps_Extension",
+  "name_en": "Cable Rope Overhead Triceps Extension",
+  "name_ar": "ترايسيبس بالكيبل حبل فوق الرأس",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "دفع",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الترايسبس"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "ثبّت الحبل في البكرة السفلية لجهاز الكيبل.",
+   "امسك الحبل بكلتا يديك، وارفعهما مباشرة فوق رأسك بقبضة متقابلة (الكفوف متقابلة). اجعل كوعيك قريبين من رأسك وذراعيك عموديتين على الأرض، وتكون قبضة يدك متجهة للأعلى. هذه نقطة البداية.",
+   "أنزل الحبل ببطء خلف رأسك مع تثبيت الجزء العلوي من ذراعيك. اسحب نفس (شهيق) أثناء النزول وتوقف عندما تتمدد عضلة التراي بالكامل.",
+   "ارجع لنقطة البداية بدفع الوزن عن طريق عصر عضلة الترايسيبس مع إخراج النفس (زفير).",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Attach a rope to the bottom pulley of the pulley machine.",
+   "Grasping the rope with both hands, extend your arms with your hands directly above your head using a neutral grip (palms facing each other). Your elbows should be in close to your head and the arms should be perpendicular to the floor with the knuckles aimed at the ceiling. This will be your starting position.",
+   "Slowly lower the rope behind your head as you hold the upper arms stationary. Inhale as you perform this movement and pause when your triceps are fully stretched.",
+   "Return to the starting position by flexing your triceps as you breathe out.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ]
+ },
+ {
+  "id": "Cable_Rope_Rear-Delt_Rows",
+  "name_en": "Cable Rope Rear-Delt Rows",
+  "name_ar": "سحب كيبل حبل للكتف الخلفي جالس",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "البايسبس",
+   "منتصف الظهر"
+  ],
+  "instructions_ar": [
+   "اجلس على جهاز السحب الأرضي (الروينغ) بنفس وضعية تمرين التجديف للظهر.",
+   "ثبّت الحبل بالكيبل وامسكه بقبضة من الأعلى. اجعل ذراعيك ممدودتين وموازيتين للأرض مع فتح الكوعين للخارج.",
+   "حافظ على استقامة أسفل ظهرك وارجع بحوضك للخلف قليلاً مع ثني بسيط بالركبتين. هذه نقطة البداية.",
+   "اسحب الحبل باتجاه أعلى صدرك (أسفل الرقبة مباشرة)، مع إبقاء كوعيك مرتفعين ومفتوحين للخارج. استمر بالسحب مع الزفير حتى يعبر كوعاك خط ظهرك قليلاً. ملاحظة: حافظ على بقاء ذراعيك موازيتين للأرض طوال الحركة.",
+   "ارجع ببطء لنقطة البداية مع مد الذراعين للأمام، وخذ شهيقاً أثناء الرجوع.",
+   "كرر الحركة للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Sit in the same position on a low pulley row station as you would if you were doing seated cable rows for the back.",
+   "Attach a rope to the pulley and grasp it with an overhand grip. Your arms should be extended and parallel to the floor with the elbows flared out.",
+   "Keep your lower back upright and slide your hips back so that your knees are slightly bent. This will be your starting position.",
+   "Pull the cable attachment towards your upper chest, just below the neck, as you keep your elbows up and out to the sides. Continue this motion as you exhale until the elbows travel slightly behind the back. Tip: Keep your upper arms horizontal, perpendicular to the torso and parallel to the floor throughout the motion.",
+   "Go back to the initial position where the arms are extended and the shoulders are stretched forward. Inhale as you perform this portion of the movement.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Rear-Delt_Rows/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Rear-Delt_Rows/1.jpg"
+  ]
+ },
+ {
+  "id": "Cable_Russian_Twists",
+  "name_en": "Cable Russian Twists",
+  "name_ar": "تويست روسي بالكيبل على كرة التوازن",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "ثبّت مقبض مفرد على جهاز الكيبل واضبط البكرة في مستوى متوسط (بارتفاع الجذع).",
+   "استلقِ بظهرك على كرة التوازن بحيث تكون بجانب جهاز الكيبل، وامسك المقبض بيد واحدة مع إبقاء مسافة ذراع تقريباً عن الجهاز وشد سلك الكيبل.",
+   "امسك المقبض بكلتا يديك ومد ذراعيك بالكامل فوق صدرك بحيث تكون اليدان بمحاذاة البكرة مباشرة.",
+   "ارفع حوضك للأعلى وشد عضلات البطن ليكون جسمك مستقيماً من رأسك إلى ركبتيك. لف جذعك بعيداً عن الكيبل بزاوية ربع دورة.",
+   "اثبت لثانية، ثم ارجع ببطء وبتحكم إلى نقطة البداية مع الحفاظ على شد الكيبل.",
+   "كرر نفس الحركة حتى الوصول للفشل العضلي أو العدد المطلوب.",
+   "غيّر اتجاه جسمك وكرر نفس الخطوات للجانب الآخر."
+  ],
+  "instructions_en": [
+   "Connect a standard handle attachment, and position the cable to a middle pulley position.",
+   "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
+   "Grab the handle with both hands and fully extend your arms above your chest. You hands should be directly in-line with the pulley. If not, adjust the pulley up or down until they are.",
+   "Keep your hips elevated and abs engaged. Rotate your torso away from the pulley for a full-quarter rotation. Your body should be flat from head to knees.",
+   "Pause for a moment and in a slow and controlled manner reset to the starting position. You should still have side tension on the cable in the resting position.",
+   "Repeat the same movement to failure.",
+   "Then, reposition and repeat the same series of movements on the opposite side."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Russian_Twists/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Russian_Twists/1.jpg"
+  ]
+ },
+ {
+  "id": "Cable_Seated_Crunch",
+  "name_en": "Cable Seated Crunch",
+  "name_ar": "طحن بطن بالكيبل جالس (كرانش)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "اجلس على بنش مستوي وظهرك مواجه للبكرة العلوية للكيبل.",
+   "امسك الحبل بكلتا يديك (الكفوف متقابلة) وضع يديك بثبات فوق كتفيك، مع ترك الوزن يمد أسفل ظهرك قليلاً للخلف. هذه نقطة البداية.",
+   "مع تثبيت الحوض، اعصر عضلات بطنك واثنِ خصرك لتقريب كوعيك نحو فخذيك، واخرج النفس (زفير) أثناء الحركة.",
+   "ارجع ببطء وتحكم إلى نقطة البداية وأنت تأخذ نفساً (شهيق).",
+   "كرر التمرين للعدد المطلوب من التكرارات."
+  ],
+  "instructions_en": [
+   "Seat on a flat bench with your back facing a high pulley.",
+   "Grasp the cable rope attachment with both hands (with the palms of the hands facing each other) and place your hands securely over both shoulders. Tip: Allow the weight to hyperextend the lower back slightly. This will be your starting position.",
+   "With the hips stationary, flex the waist so the elbows travel toward the hips. Breathe out as you perform this step.",
+   "As you inhale, go back to the initial position slowly.",
+   "Repeat for the recommended amount of repetitions."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Crunch/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Crunch/1.jpg"
+  ]
+ },
+ {
+  "id": "Cable_Seated_Lateral_Raise",
+  "name_en": "Cable Seated Lateral Raise",
+  "name_ar": "رفرفة كتف جانبي بالكيبل جالس (نشر)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "كيبل",
+  "force": "سحب",
+  "mechanic": "عزل",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "منتصف الظهر",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "قف بين بكرتين سفليتين متقابلتين وضع بنشاً مستوياً خلفك مباشرة، واضبط الوزن المناسب لكل جانب.",
+   "اجلس على حافة البنش مع وضع قدميك أمام ركبتيك.",
+   "انحنِ للأمام مع الحفاظ على استقامة ظهرك وضع جذعك على فخذيك.",
+   "امسك مقابض الكيبل بشكل متقاطع (الكيبل الأيسر باليد اليمنى، والأيمن باليد اليسرى) بحيث يمر السلكان تحت ركبتيك، مع مد الذراعين وثني خفيف بالكوعين. هذه نقطة البداية.",
+   "مع تثبيت زاوية الكوع، ارفع ذراعيك للجانبين حتى تصبحا بمستوى الكتف وموازيتين للأرض، واخرج النفس (زفير) مع الثبات لثانية بالأعلى.",
+   "أنزل ذراعيك ببطء لنقطة البداية مع أخذ نفس (شهيق).",
+   "كرر الحركة للعدد المطلوب من التكرارات، وتأكد من ثبات زاوية ثني الكوع طوال التمرين."
+  ],
+  "instructions_en": [
+   "Stand in the middle of two low pulleys that are opposite to each other and place a flat bench right behind you (in perpendicular fashion to you; the narrow edge of the bench should be the one behind you). Select the weight to be used on each pulley.",
+   "Now sit at the edge of the flat bench behind you with your feet placed in front of your knees.",
+   "Bend forward while keeping your back flat and rest your torso on the thighs.",
+   "Have someone give you the single handles attached to the pulleys. Grasp the left pulley with the right hand and the right pulley with the left after you select your weight. The pulleys should run under your knees and your arms will be extended with palms facing each other and a slight bend at the elbows. This will be the starting position.",
+   "While keeping the arms stationary, raise the upper arms to the sides until they are parallel to the floor and at shoulder height. Exhale during the execution of this movement and hold the contraction for a second.",
+   "Slowly lower your arms to the starting position as you inhale.",
+   "Repeat for the recommended amount of repetitions. Tip: Maintain upper arms perpendicular to torso and a fixed elbow position (10 degree to 30 degree angle) throughout exercise."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+  ]
+ },
+ {
+  "id": "Dancers_Stretch",
+  "name_en": "Dancer's Stretch",
+  "name_ar": "إطالة الراقص (Dancer's Stretch)",
+  "level": "مبتدئ",
+  "category": "إطالة",
+  "equipment": null,
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "العضلات المبعِّدة (جانب الورك)",
+   "الأرداف"
+  ],
+  "instructions_ar": [
+   "اجلس مستقيم الظهر على الأرض.",
+   "اعبر رجلك اليمنى فوق اليسرى مع ثني الركبة، وخلي رجلك اليسرى ممدودة ومستقيمة على الأرض.",
+   "خلّي ذراعك اليسرى على رجلك اليمنى، وإيدك اليمنى مسنودة على الأرض خلفك.",
+   "لف الجزء العلوي من جسمك لليمين، واثبت لمدة 10-20 ثانية، بعدها بدّل للجهة الثانية."
+  ],
+  "instructions_en": [
+   "Sit up on the floor.",
+   "Cross your right leg over your left, keeping the knee bent. Your left leg is straight and down on the floor.",
+   "Place your left arm on your right leg and your right hand on the floor.",
+   "Rotate your upper body to the right, and hold for 10-20 seconds. Switch sides."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dancers_Stretch/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dancers_Stretch/1.jpg"
+  ]
+ },
+ {
+  "id": "Dead_Bug",
+  "name_en": "Dead Bug",
+  "name_ar": "تمرين الحشرة الميتة (Dead Bug)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [
+   "استلقِ على ظهرك ومد إيديك للأعلى باتجاه السقف.",
+   "ارفع رجليك وركبك واثنِ مفصل الورك بزاوية 90 درجة.",
+   "اخرج زفير قوي حتى ينزل قفصك الصدري ويلتصق ظهرك تماماً بالأرض، مع شد خفيف للمؤخرة والحوض. اثبت على هذا الوضع طوال التمرين وتكون هذه نقطة البداية.",
+   "ابدأ التمرين بمد رجل واحدة للأمام، مع فرد الركبة ومفصل الورك حتى تقترب الرجل من الأرض بدون ملامستها.",
+   "حافظ على ثبات أسفل ظهرك ملتصقاً بالأرض طول الحركة ومنعه من التقوس.",
+   "حافظ على الشد وارجع رجلك لنقطة البداية.",
+   "كرر نفس الحركة بالرجل الثانية، وبدّل بين الجهتين بالتناوب حتى تخلص السيت."
+  ],
+  "instructions_en": [
+   "Begin lying on your back with your hands extended above you toward the ceiling.",
+   "Bring your feet, knees, and hips up to 90 degrees.",
+   "Exhale hard to bring your ribcage down and flatten your back onto the floor, rotating your pelvis up and squeezing your glutes. Hold this position throughout the movement. This will be your starting position.",
+   "Initiate the exercise by extending one leg, straightening the knee and hip to bring the leg just above the ground.",
+   "Maintain the position of your lumbar and pelvis as you perform the movement, as your back is going to want to arch.",
+   "Stay tight and return the working leg to the starting position.",
+   "Repeat on the opposite side, alternating until the set is complete."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dead_Bug/1.jpg"
+  ]
+ },
+ {
+  "id": "Deadlift_with_Bands",
+  "name_en": "Deadlift with Bands",
+  "name_ar": "ديدلفت بالمطاط (Deadlift with Bands)",
+  "level": "متقدم",
+  "category": "باور لفتنج",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "منتصف الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "إذا كنت تستخدم أربطة مطاطية قصيرة، لفها حول البار ودس عليها برجليك للتثبيت، أما الأربطة الطويلة فثبتها بقاعدة متينة مثل دمبلز ثقيل أو الراك.",
+   "اضبط وقفتك ومسكتك للبار، خذ نفس عميق ونزّل حوضك واثنِ ركبك لحد ما يقترب البار من قصبة الساق. ارفع صدرك وخلي ظهرك مستقيم ومشدود وادفع الأرض بكعب رجلك لرفع الوزن. بعد ما يعبر البار ركبك، ادفع حوضك بقوة للأمام واقفل لوحي الكتف للخلف.",
+   "نزّل البار بتحريك الورك للخلف والنزول تدريجياً وبتحكم إلى الأرض."
+  ],
+  "instructions_en": [
+   "To deadlift with short bands, simply loop them over the bar before you start, and step into them to set up. For long bands, they will need to be anchored to a secure base, such as heavy dumbbells or a rack.",
+   "With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar. Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+   "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Bands/1.jpg"
+  ]
+ },
+ {
+  "id": "Deadlift_with_Chains",
+  "name_en": "Deadlift with Chains",
+  "name_ar": "ديدلفت بالسلاسل (Deadlift with Chains)",
+  "level": "متقدم",
+  "category": "باور لفتنج",
+  "equipment": "بار حديد",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "أسفل الظهر"
+  ],
+  "secondary_muscles": [
+   "الساعد",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "منتصف الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [
+   "ثبت السلاسل على أطراف البار، أو علقها في منتصف الأوزان حتى تزيد المقاومة كلما ارتفع البار.",
+   "اقترب من البار بحيث يكون فوق منتصف قدميك، وخلّي فتحة رجليك بعرض الورك. انحنِ من الورك وامسك البار بعرض الكتفين (قبضة عادية أو قبضة مختلطة للأوزان الثقيلة). خذ نفس عميق ونزّل حوضك واثنِ ركبك لحد ما تلمس قصبة الساق البار.",
+   "ارفع صدرك، حافظ على استقامة ظهرك، وادفع الأرض بكعوبك حتى تسحب الوزن للأعلى. بمجرد أن يعبر البار الركبتين، ادفع حوضك للأمام بقوة واقفل لوحي الكتف.",
+   "نزّل البار بتحريك الورك للخلف والتحكم بالنزول حتى يستقر على الأرض."
+  ],
+  "instructions_en": [
+   "You can attach the chains to the sleeves of the bar, or just drape the middle over the bar so there is a greater weight increase as you lift.",
+   "Approach the bar so that it is centered over your feet. You feet should be about hip width apart. Bend at the hip to grip the bar at shoulder width, allowing your shoulder blades to protract. Typically, you would use an overhand grip or an over/under grip on heavier sets. With your feet, and your grip set, take a big breath and then lower your hips and bend the knees until your shins contact the bar.",
+   "Look forward with your head, keep your chest up and your back arched, and begin driving through the heels to move the weight upward. After the bar passes the knees, aggressively pull the bar back, pulling your shoulder blades together as you drive your hips forward into the bar.",
+   "Lower the bar by bending at the hips and guiding it to the floor."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Chains/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Deadlift_with_Chains/1.jpg"
+  ]
+ },
+ {
+  "id": "Decline_Barbell_Bench_Press",
+  "name_en": "Decline Barbell Bench Press",
+  "name_ar": "بنش بريس مائل للأسفل بالبار (دكلاين بنش)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الصدر"
+  ],
+  "secondary_muscles": [
+   "الأكتاف",
+   "الترايسبس"
+  ],
+  "instructions_ar": [
+   "ثبت رجليك جيداً في نهاية البنش المائل واستلقِ ببطء على ظهرك.",
+   "امسك البار بفتحة متوسطة (بحيث تسوي زاوية 90 درجة بين الساعد والذراع بنصف الحركة)، ارفع البار من الراك وثبته فوقك مع فرد الذراعين عمودياً على الأرض (يفضل وجود مساعد لمساعدتك برفع البار). هذه نقطة البداية.",
+   "خذ نفس وانزل بالبار ببطء وبتحكم لحد ما يلمس أسفل صدرك.",
+   "اثبت ثانية، بعدها ادفع البار للأعلى مع إخراج الزفير باستخدام عضلات الصدر حتى تقفل ذراعيك وتعتصر صدرك، واثبت ثانية قبل تكرار النزول (خلي وقت النزول ضعف وقت الصعود).",
+   "كرر الحركة للعدد المطلوب من التكرارات.",
+   "بعد ما تخلص السيت، رجّع البار بحذر إلى الراك."
+  ],
+  "instructions_en": [
+   "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+   "Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack.",
+   "As you breathe in, come down slowly until you feel the bar on your lower chest.",
+   "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms and squeeze your chest in the contracted position, hold for a second and then start coming down slowly again. Tip: It should take at least twice as long to go down than to come up).",
+   "Repeat the movement for the prescribed amount of repetitions.",
+   "When you are done, place the bar back in the rack."
+  ],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+  ]
+ }
+]
