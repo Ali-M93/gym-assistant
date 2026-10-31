@@ -1,0 +1,28 @@
+المجموع 876 | مترجم 70 | هذا الجزء 300
+  ✓ 85/876
+  مشكلة (JSONDecodeError: Expecting ',' delimiter: line 1 column 7207 (char 7206))، أعيد المحاولة...
+  ✓ 100/876
+  ✓ 115/876
+  ✓ 130/876
+  مشكلة (JSONDecodeError: Expecting ',' delimiter: line 1 column 8545 (char 8544))، أعيد المحاولة...
+  ✓ 145/876
+  ✓ 160/876
+  ✓ 175/876
+  ✓ 190/876
+  ✓ 205/876
+  ✓ 220/876
+  ✓ 235/876
+  ✓ 250/876
+  ✓ 265/876
+  مشكلة (JSONDecodeError: Expecting value: line 7 column 9 (char 177))، أعيد المحاولة...
+  ✓ 279/876
+  ✓ 294/876
+  مشكلة (JSONDecodeError: Expecting value: line 103 column 9 (char 5332))، أعيد المحاولة...
+  ✓ 309/876
+  ✓ 324/876
+  ✓ 339/876
+  مشكلة (JSONDecodeError: Expecting value: line 52 column 7 (char 2507))، أعيد المحاولة...
+  ✓ 354/876
+  مشكلة (JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 1351 (char 1350))، أعيد المحاولة...
+  ✓ 368/876
+خلص الجزء: 368/876، شغّل الجزء الجاي.
