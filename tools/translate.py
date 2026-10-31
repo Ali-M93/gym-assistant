@@ -23,7 +23,8 @@ SRC = ROOT / "data" / "exercises_en.json"
 DICT = ROOT / "data" / "dictionary_ar.json"
 OUT = ROOT / "data" / "exercises_ar.json"
 
-API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+API_KEY = (os.environ.get("GEMINI_API_KEY2") or os.environ.get("GEMINI_API_KEY") or "").strip()
+LIMIT = int(os.environ.get("LIMIT") or 150)   # عدد التمارين بكل جزء
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
 BATCH = 5            # عدد التمارين بكل طلب
 PAUSE = 5            # ثواني بين الطلبات (حدود الخطة المجانية)
@@ -38,6 +39,10 @@ PROMPT = """أنت مترجم متخصص بالرياضة وكمال الأجس�
 
 التمارين:
 """
+
+
+class QuotaDone(Exception):
+    pass
 
 
 def call_gemini(batch):
@@ -63,8 +68,10 @@ def call_gemini(batch):
                 msg = f"خطأ {e.code} (المفتاح أو اسم الموديل): {e.read()[:500]!r}"
                 log(msg)
                 sys.exit(msg)
+            if e.code == 429 and attempt >= 2:
+                raise QuotaDone()
             wait = 30 * (attempt + 1) if e.code == 429 else 10
-            print(f"  خطأ {e.code}، أنتظر {wait} ثانية...")
+            log(f"  خطأ {e.code}، أنتظر {wait} ثانية...")
             time.sleep(wait)
         except Exception as e:
             log(f"  مشكلة ({type(e).__name__}: {e})، أعيد المحاولة...")
@@ -92,12 +99,16 @@ def main():
     if OUT.exists():
         done = {e["id"]: e for e in json.loads(OUT.read_text(encoding="utf-8"))}
 
-    todo = [e for e in src if e["id"] not in done]
-    print(f"المجموع {len(src)} | مترجم {len(done)} | باقي {len(todo)}")
+    todo = [e for e in src if e["id"] not in done][:LIMIT]
+    log(f"المجموع {len(src)} | مترجم {len(done)} | هذا الجزء {len(todo)}")
 
     for i in range(0, len(todo), BATCH):
         batch = todo[i:i + BATCH]
-        result = call_gemini(batch)
+        try:
+            result = call_gemini(batch)
+        except QuotaDone:
+            log("انتهت الحصة المجانية لليوم، أوقف وأحفظ اللي خلص.")
+            break
         for e in batch:
             t = result.get(e["id"])
             if not t or len(t.get("instructions_ar", [])) == 0:
@@ -120,10 +131,10 @@ def main():
         # نحفظ بعد كل دفعة حتى ما يضيع شي
         ordered = [done[e["id"]] for e in src if e["id"] in done]
         OUT.write_text(json.dumps(ordered, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"  ✓ {len(done)}/{len(src)}")
+        log(f"  ✓ {len(done)}/{len(src)}")
         time.sleep(PAUSE)
 
-    print("خلصت ✅" if len(done) == len(src) else "باقي تمارين، شغّل السكربت مرة ثانية.")
+    log("خلصت كل التمارين ✅" if len(done) == len(src) else f"خلص الجزء: {len(done)}/{len(src)}، شغّل الجزء الجاي.")
 
 
 if __name__ == "__main__":

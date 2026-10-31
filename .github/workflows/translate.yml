@@ -2,6 +2,10 @@ name: ترجمة التمارين
 
 on:
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "عدد التمارين بهذا الجزء"
+        default: "150"
 
 permissions:
   contents: write
@@ -9,7 +13,7 @@ permissions:
 jobs:
   translate:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -18,6 +22,8 @@ jobs:
       - name: Translate
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY2: ${{ secrets.GEMINI_API_KEY2 }}
+          LIMIT: ${{ inputs.limit }}
         run: python tools/translate.py
       - name: Commit result
         if: always()
