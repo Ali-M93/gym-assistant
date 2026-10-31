@@ -25,8 +25,8 @@ OUT = ROOT / "data" / "exercises_ar.json"
 
 API_KEY = (os.environ.get("GEMINI_API_KEY2") or os.environ.get("GEMINI_API_KEY") or "").strip()
 LIMIT = int(os.environ.get("LIMIT") or 150)   # عدد التمارين بكل جزء
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
-BATCH = 5            # عدد التمارين بكل طلب
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
+BATCH = 15           # عدد التمارين بكل طلب
 PAUSE = 5            # ثواني بين الطلبات (حدود الخطة المجانية)
 IMG_BASE = "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/"
 
