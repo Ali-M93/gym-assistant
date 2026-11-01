@@ -11875,6 +11875,33 @@
   ]
  },
  {
+  "id": "Iron_Cross",
+  "name_en": "Iron Cross",
+  "name_ar": "الصليب الحديدي",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "دمبل",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الصدر",
+   "الأرداف",
+   "الفخذ الخلفي",
+   "أسفل الظهر",
+   "الفخذ الأمامي",
+   "الترابيس"
+  ],
+  "instructions_ar": [],
+  "instructions_en": [],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Cross/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iron_Cross/1.jpg"
+  ]
+ },
+ {
   "id": "Iron_Crosses_stretch",
   "name_en": "Iron Crosses (stretch)",
   "name_ar": "إطالة آرون كروس",
@@ -16513,6 +16540,31 @@
   ]
  },
  {
+  "id": "One-Arm_Kettlebell_Swings",
+  "name_en": "One-Arm Kettlebell Swings",
+  "name_ar": "مرجحة الكيتل بيل بيد واحدة",
+  "level": "متوسط",
+  "category": "قوة",
+  "equipment": "كيتل بيل",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الفخذ الخلفي"
+  ],
+  "secondary_muscles": [
+   "السمانة",
+   "الأرداف",
+   "أسفل الظهر",
+   "الأكتاف"
+  ],
+  "instructions_ar": [],
+  "instructions_en": [],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+  ]
+ },
+ {
   "id": "One-Arm_Long_Bar_Row",
   "name_en": "One-Arm Long Bar Row",
   "name_ar": "تمرين سحب بار أرضي بالذراع الواحد",
@@ -18787,6 +18839,29 @@
   "images": [
    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Ups_With_Feet_On_An_Exercise_Ball/0.jpg",
    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Ups_With_Feet_On_An_Exercise_Ball/1.jpg"
+  ]
+ },
+ {
+  "id": "Push_Press",
+  "name_en": "Push Press",
+  "name_ar": "بوش بريس (دفع البار فوق الرأس)",
+  "level": "متقدم",
+  "category": "رفع أثقال أولمبي",
+  "equipment": "بار حديد",
+  "force": "دفع",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "الأكتاف"
+  ],
+  "secondary_muscles": [
+   "الفخذ الأمامي",
+   "الترايسبس"
+  ],
+  "instructions_ar": [],
+  "instructions_en": [],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Press/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Press/1.jpg"
   ]
  },
  {
@@ -21933,6 +22008,28 @@
   ]
  },
  {
+  "id": "Side_Bridge",
+  "name_en": "Side Bridge",
+  "name_ar": "الجسر الجانبي (بلانك جانبي)",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "ثابت",
+  "mechanic": null,
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [
+   "الأكتاف"
+  ],
+  "instructions_ar": [],
+  "instructions_en": [],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Bridge/1.jpg"
+  ]
+ },
+ {
   "id": "Side_Hop-Sprint",
   "name_en": "Side Hop-Sprint",
   "name_ar": "قفز جانبي مع ركض سريع",
@@ -21963,6 +22060,26 @@
   "images": [
    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Hop-Sprint/0.jpg",
    "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Hop-Sprint/1.jpg"
+  ]
+ },
+ {
+  "id": "Side_Jackknife",
+  "name_en": "Side Jackknife",
+  "name_ar": "الجاك نايف الجانبي",
+  "level": "مبتدئ",
+  "category": "قوة",
+  "equipment": "وزن الجسم فقط",
+  "force": "سحب",
+  "mechanic": "مركّب",
+  "primary_muscles": [
+   "عضلات البطن"
+  ],
+  "secondary_muscles": [],
+  "instructions_ar": [],
+  "instructions_en": [],
+  "images": [
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Jackknife/0.jpg",
+   "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Jackknife/1.jpg"
   ]
  },
  {
