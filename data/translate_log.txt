@@ -26,3 +26,47 @@
   مشكلة (JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 1351 (char 1350))، أعيد المحاولة...
   ✓ 368/876
 خلص الجزء: 368/876، شغّل الجزء الجاي.
+المجموع 876 | مترجم 368 | هذا الجزء 508
+  ✓ 382/876
+  ✓ 397/876
+  ✓ 412/876
+  ✓ 427/876
+  ✓ 442/876
+  ✓ 457/876
+  ✓ 472/876
+  ✓ 487/876
+  ✓ 501/876
+  مشكلة (JSONDecodeError: Expecting value: line 63 column 9 (char 3125))، أعيد المحاولة...
+  ✓ 516/876
+  ✓ 531/876
+  ✓ 546/876
+  مشكلة (JSONDecodeError: Expecting ',' delimiter: line 1 column 9692 (char 9691))، أعيد المحاولة...
+  ✓ 561/876
+  ✓ 575/876
+  ✓ 590/876
+  ✓ 605/876
+  ✓ 620/876
+  ✓ 635/876
+  ✓ 650/876
+  ✓ 663/876
+  ✓ 678/876
+  ✓ 693/876
+  ✓ 708/876
+  مشكلة (JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 7150 (char 7149))، أعيد المحاولة...
+  ✓ 723/876
+  ✓ 738/876
+  ✓ 753/876
+  ✓ 768/876
+  ✓ 783/876
+  ✓ 798/876
+  ✓ 813/876
+  ✓ 828/876
+  ✓ 843/876
+  ✓ 858/876
+  مشكلة (JSONDecodeError: Expecting property name enclosed in double quotes: line 3 column 5 (char 10))، أعيد المحاولة...
+  مشكلة (TypeError: list indices must be integers or slices, not str)، أعيد المحاولة...
+  مشكلة (JSONDecodeError: Expecting property name enclosed in double quotes: line 3 column 5 (char 10))، أعيد المحاولة...
+  مشكلة (TypeError: list indices must be integers or slices, not str)، أعيد المحاولة...
+  مشكلة (TypeError: list indices must be integers or slices, not str)، أعيد المحاولة...
+  ✓ 858/876
+خلص الجزء: 858/876، شغّل الجزء الجاي.
