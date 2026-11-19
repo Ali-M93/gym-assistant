@@ -1,2 +1,6 @@
 __pycache__/
 .env
+.dart_tool/
+build/
+.flutter-plugins*
+pubspec.lock

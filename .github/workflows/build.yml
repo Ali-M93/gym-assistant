@@ -1,0 +1,77 @@
+name: بناء التطبيق (APK)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "lib/**"
+      - "pubspec.yaml"
+      - "assets/**"
+      - "data/exercises_ar.json"
+      - ".github/workflows/build.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-apk
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: zulu
+          java-version: "17"
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Generate Android project
+        run: |
+          flutter --version | tee ci_log.txt
+          flutter create --project-name gym_assistant --org iq.alim93 --platforms android . 2>&1 | tee -a ci_log.txt
+          rm -rf test
+          MANIFEST=android/app/src/main/AndroidManifest.xml
+          sed -i 's#<manifest xmlns:android="http://schemas.android.com/apk/res/android">#<manifest xmlns:android="http://schemas.android.com/apk/res/android">\n    <uses-permission android:name="android.permission.INTERNET"/>#' $MANIFEST
+          sed -i 's#android:label="gym_assistant"#android:label="مساعد الجم"#' $MANIFEST
+          grep -n "INTERNET\|android:label" $MANIFEST | tee -a ci_log.txt
+
+      - name: Dependencies and icons
+        run: |
+          flutter pub get 2>&1 | tee -a ci_log.txt
+          dart run flutter_launcher_icons 2>&1 | tee -a ci_log.txt
+
+      - name: Analyze
+        run: flutter analyze --no-fatal-infos --no-fatal-warnings 2>&1 | tee -a ci_log.txt
+
+      - name: Build APK
+        run: flutter build apk --release 2>&1 | tee -a ci_log.txt
+
+      - name: Publish APK as release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp build/app/outputs/flutter-apk/app-release.apk gym-assistant.apk
+          gh release delete latest -y --cleanup-tag || true
+          gh release create latest gym-assistant.apk \
+            --title "آخر نسخة تجريبية" \
+            --notes "نسخة تجريبية مبنية تلقائياً من ${GITHUB_SHA::7}"
+
+      - name: Save log on failure
+        if: failure()
+        run: |
+          mkdir -p ci
+          cp ci_log.txt ci/build_log.txt || echo "no log" > ci/build_log.txt
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add ci/build_log.txt
+          git commit -m "CI build log [skip ci]" && git push || true
