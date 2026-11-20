@@ -1,4 +1,4 @@
-name: بناء التطبيق (APK)
+name: بناء التطبيق (APK + AAB)
 
 on:
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
       - "pubspec.yaml"
       - "assets/**"
       - "data/exercises_ar.json"
+      - "tool/**"
       - ".github/workflows/build.yml"
 
 permissions:
@@ -35,15 +36,33 @@ jobs:
           channel: stable
           cache: true
 
+      # معرّف التطبيق ثابت للأبد بعد النشر: com.alim.gym_assistant
       - name: Generate Android project
         run: |
-          flutter --version | tee ci_log.txt
-          flutter create --project-name gym_assistant --org iq.alim93 --platforms android . 2>&1 | tee -a ci_log.txt
+          flutter create --org com.alim --project-name gym_assistant --platforms android . 2>&1 | tee ci_log.txt
           rm -rf test
-          MANIFEST=android/app/src/main/AndroidManifest.xml
-          sed -i 's#<manifest xmlns:android="http://schemas.android.com/apk/res/android">#<manifest xmlns:android="http://schemas.android.com/apk/res/android">\n    <uses-permission android:name="android.permission.INTERNET"/>#' $MANIFEST
-          sed -i 's#android:label="gym_assistant"#android:label="مساعد الجم"#' $MANIFEST
-          grep -n "INTERNET\|android:label" $MANIFEST | tee -a ci_log.txt
+
+      # مفتاح الرفع مشفّر داخل المستودع، والسر الوحيد هو KEYSTORE_PASSWORD
+      - name: Signing key
+        env:
+          KS_PASS_RAW: ${{ secrets.KEYSTORE_PASSWORD }}
+        run: |
+          P=$(printf '%s' "$KS_PASS_RAW" | tr -d '[:space:]')
+          if [ -z "$P" ]; then
+            echo "::warning::KEYSTORE_PASSWORD مو موجود — النسخة راح تكون بمفتاح تجريبي وما تنرفع على Google Play"
+            exit 0
+          fi
+          echo "::add-mask::$P"
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in tool/upload-key.jks.enc \
+            -out "$RUNNER_TEMP/release.jks" -pass "pass:$P" 2>/dev/null \
+            || { echo "::error::KEYSTORE_PASSWORD غلط"; exit 1; }
+          SUM=$(sha256sum "$RUNNER_TEMP/release.jks" | cut -c1-64)
+          [ "$SUM" = "0a3b7dc9a19e6976878eef1aa277d1022ebcd5b9a40fec43d5257093ff17b33e" ] \
+            || { echo "::error::KEYSTORE_PASSWORD غلط (المفتاح ما انفك صح)"; exit 1; }
+          { echo "KS_PATH=$RUNNER_TEMP/release.jks"; echo "KS_PASS=$P"; echo "KS_ALIAS=upload"; } >> "$GITHUB_ENV"
+
+      - name: Patch Android
+        run: python3 tool/patch_android.py | tee -a ci_log.txt
 
       - name: Dependencies and icons
         run: |
@@ -53,18 +72,30 @@ jobs:
       - name: Analyze
         run: flutter analyze --no-fatal-infos --no-fatal-warnings 2>&1 | tee -a ci_log.txt
 
-      - name: Build APK
-        run: flutter build apk --release 2>&1 | tee -a ci_log.txt
+      - name: Build APK + AAB
+        run: |
+          V="--build-number=${{ github.run_number }} --build-name=1.0.${{ github.run_number }}"
+          flutter build apk --release $V 2>&1 | tee -a ci_log.txt
+          flutter build appbundle --release $V 2>&1 | tee -a ci_log.txt
+          mkdir -p out
+          cp build/app/outputs/flutter-apk/app-release.apk out/gym-assistant.apk
+          cp build/app/outputs/bundle/release/app-release.aab out/gym-assistant.aab
 
-      - name: Publish APK as release
+      - name: Verify signing
+        run: |
+          keytool -printcert -jarfile out/gym-assistant.aab | tee signer.txt | head -5
+          if [ -n "$KS_PATH" ]; then
+            grep -q "Gym Assistant" signer.txt || { echo "::error::AAB غير موقّع بالمفتاح الرسمي"; exit 1; }
+          fi
+
+      - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          cp build/app/outputs/flutter-apk/app-release.apk gym-assistant.apk
           gh release delete latest -y --cleanup-tag || true
-          gh release create latest gym-assistant.apk \
-            --title "آخر نسخة تجريبية" \
-            --notes "نسخة تجريبية مبنية تلقائياً من ${GITHUB_SHA::7}"
+          gh release create latest out/gym-assistant.apk out/gym-assistant.aab \
+            --title "مساعد الجم — نسخة 1.0.${{ github.run_number }}" \
+            --notes "ثبّت gym-assistant.apk على التلفون. ملف gym-assistant.aab لرفعه على Google Play."
 
       - name: Save log on failure
         if: failure()
